@@ -10,3 +10,4 @@ A curated list of awesome JavaScript Games and resources with size limit set to 
 ## Resources
 - [Awesome Web Monetization](https://github.com/thomasbnt/awesome-web-monetization) - Awesome stuffs about Web Monetization. Learn more, check modules and others tools.
 - [A port of sfxr to HTML5](http://github.grumdrig.com/jsfxr) - Dead easy game sound effects generator.
+- [OpenGameArt.org](https://opengameart.org) - Free, legal art for open source game projects (includes models, sprites, textures, sounds, music).
