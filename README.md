@@ -10,7 +10,7 @@
 <h1 align="center">Awesome JavaScript Games</h1>
 <h4 align="center">A curated list of awesome JavaScript Games, assets and resources.</h4>
 <p align="center">
-  <img width="600px" src="img/js-games.jpg">
+  <img width="600px" alt="JavaScript Games" src="img/js-games.jpg">
 </p>
 
 ### Action Puzzle
@@ -22,7 +22,8 @@
 
 
 
-## Awesome Resources
+
+# Awesome Resources
 
 ### Courses
 - [Codecademy](https://www.codecademy.com/catalog/language/javascript) - JavaScript Courses & Tutorials.
