@@ -1,5 +1,17 @@
-# Awesome JavaScript Games
-A curated list of awesome JavaScript Games, assets and resources.
+<p align="center">
+  <a href="https://github.com/proyecto26/awesome-jsgames/graphs/commit-activity">
+    <img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg" alt="Maintenance" />
+  </a>
+  <a href="https://twitter.com/intent/follow?screen_name=jdnichollsc">
+    <img src="https://img.shields.io/twitter/follow/jdnichollsc.svg?label=Follow%20@jdnichollsc" alt="Follow @jdnichollsc" />
+  </a>
+</p>
+
+<h1 align="center">Awesome JavaScript Games</h1>
+<h4 align="center">A curated list of awesome JavaScript Games, assets and resources.</h4>
+<p align="center">
+  <img width="600px" src="img/js-games.jpg">
+</p>
 
 ### Action Puzzle
 - [Raven](http://js13kgames.com/entries/raven) - The security cameras for a secret facility have been taken offline, and it is YOUR job to fix the problem.
@@ -50,6 +62,9 @@ A curated list of awesome JavaScript Games, assets and resources.
 
 ### Other Awesome Lists
 - [Games on GitHub](https://github.com/leereilly/games) - A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+
+## Contributors ✨
+Please do contribute! Issues and pull requests are welcome.
 
 ## Supporting 🍻
 I believe in Unicorns 🦄
