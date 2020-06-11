@@ -24,6 +24,12 @@ A curated list of awesome JavaScript Games, assets and resources.
 ## Visual Resources
 - [OpenGameArt.org](https://opengameart.org) - Free, legal art for open source game projects (includes models, sprites, textures, sounds, music).
 
+## Books
+- [HTML5 Cross Platform Game Development Using Phaser 3](https://gumroad.com/l/odKJf) - The first Phaser 3 guide to the creation of HTML5 cross platform games using Phaser 3 framework and other free software.
+
+## Other Awesome Lists
+- [Games on GitHub](https://github.com/leereilly/games) - A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+
 ## Supporting 🍻
 I believe in Unicorns 🦄
 Support [me](http://www.paypal.me/jdnichollsc/2), if you do too.
