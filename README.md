@@ -11,6 +11,9 @@ A curated list of awesome JavaScript Games, assets and resources.
 - [Babylonjs](https://github.com/BabylonJS/Babylon.js) - A powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [Phaser](https://github.com/photonstorm/phaser) - Desktop and Mobile HTML5 game framework. A fast, free and fun open source framework for Canvas and WebGL powered browser games.
 
+## Generators
+- [Audiosprite](https://github.com/tonistiigi/audiosprite) - A ffmpeg wrapper that will take in multiple audio files and combines them into a single file.
+
 ## Editors
 - [Aseprite](https://www.aseprite.org) - Animated sprite editor & pixel art tool.
 
