@@ -87,8 +87,9 @@
 - [GamePix](https://company.gamepix.com) - Platform for developers and publishers with interesting blog posts.
 - [MarketJS](https://www.marketjs.com) - A B2B Platform for licensing HTML5 games. Buy HTML5 games, customize and deploy instantly to your server.
 - [itch.io](https://itch.io) - Distribution and game jam hosting platform for HTML5 games.
+- [CrazyGames](https://www.crazygames.com/t/html5) - New distribution platform for HTML5 games.
 
-## Monetization
+### Monetization
 - [Awesome Web Monetization](https://github.com/thomasbnt/awesome-web-monetization) - Awesome stuffs about Web Monetization. Learn more, check modules and others tools.
 
 ### Audio Resources
