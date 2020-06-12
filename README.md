@@ -31,6 +31,9 @@
   <img width="600px" alt="Awesome Resources" src="img/res.png">
 </p>
 
+### Competitions
+- [Js13kGames](https://js13kgames.com) - Create HTML5 games that will fit in a zip package of only 13 kilobytes.
+- [Ludum Dare game jam](https://ldjam.com/games) - An online event where games are made from scratch in a weekend.
 
 ### Courses
 - [Codecademy](https://www.codecademy.com/catalog/language/javascript) - JavaScript Courses & Tutorials.
@@ -69,6 +72,7 @@
 - [Emscripten: An LLVM-to-Web Compiler](https://github.com/emscripten-core/emscripten) - Compiles C and C++ to WebAssembly using LLVM and Binaryen. Emscripten output can run on the Web, in Node.js, and in wasm runtimes.
 
 ### Testing
+- [stats.js](https://github.com/mrdoob/stats.js) - JavaScript Performance Monitor.
 - [Leshy SpriteSheet Animator](https://www.leshylabs.com/apps/spriteSheetAnimator) - Online Sprite Sheet Animation Utility.
 
 ### Guides
@@ -76,10 +80,15 @@
 - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden) - A growing collection of documentation about the most quirky parts of the JavaScript programming language.
 
 ### Editors
+- [Phaser Editor 2D](https://phasereditor2d.com) - A web-based IDEfor HTML5 game development.
 - [Aseprite](https://www.aseprite.org) - Animated sprite editor & pixel art tool.
 
-### Marketplaces & Monetization
+### Marketplaces
+- [GamePix](https://company.gamepix.com) - Platform for developers and publishers with interesting blog posts.
 - [MarketJS](https://www.marketjs.com) - A B2B Platform for licensing HTML5 games. Buy HTML5 games, customize and deploy instantly to your server.
+- [itch.io](https://itch.io) - Distribution and game jam hosting platform for HTML5 games.
+
+## Monetization
 - [Awesome Web Monetization](https://github.com/thomasbnt/awesome-web-monetization) - Awesome stuffs about Web Monetization. Learn more, check modules and others tools.
 
 ### Audio Resources
