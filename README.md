@@ -54,7 +54,7 @@
   - [PlayCanvas](https://github.com/playcanvas/engine) - Fast and lightweight WebGL game engine.
   - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 
-### Vector Graphics
+### Graphics
 - [p5.js](https://github.com/processing/p5.js) - A client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing.
 - [Paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting.
 
