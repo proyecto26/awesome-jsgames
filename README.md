@@ -31,6 +31,7 @@
   <img width="600px" alt="Awesome Resources" src="img/res.png">
 </p>
 
+
 ### Courses
 - [Codecademy](https://www.codecademy.com/catalog/language/javascript) - JavaScript Courses & Tutorials.
 - [CodeCombat: Learn to Code by Playing a Game](https://github.com/codecombat/codecombat) - Learn programming with a multiplayer live coding strategy game for beginners.
@@ -64,6 +65,9 @@
 ### Build tools
 - [Brunch](https://github.com/brunch/brunch) - Fast front-end web app build tool with simple declarative config and seamless incremental compilation for rapid development.
 
+### Compilers
+- [Emscripten: An LLVM-to-Web Compiler](https://github.com/emscripten-core/emscripten) - Compiles C and C++ to WebAssembly using LLVM and Binaryen. Emscripten output can run on the Web, in Node.js, and in wasm runtimes.
+
 ### Testing
 - [Leshy SpriteSheet Animator](https://www.leshylabs.com/apps/spriteSheetAnimator) - Online Sprite Sheet Animation Utility.
 
@@ -89,6 +93,7 @@
 
 ### Tutorials
 - [Codrops](https://tympanus.net/codrops/category/tutorials) - Useful tutorials, insightful articles, creative inspiration and free resources for web designers and developers.
+- [Emanuele Feronato](https://www.emanueleferonato.com) - Posts about Game design, HTML5, Phaser, JavaScript, Monetize, Box2D, Unity3D.
 
 ### Other Awesome Lists
 - [Games on GitHub](https://github.com/leereilly/games) - A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
