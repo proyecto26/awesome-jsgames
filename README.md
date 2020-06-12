@@ -80,6 +80,7 @@
 - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden) - A growing collection of documentation about the most quirky parts of the JavaScript programming language.
 
 ### Editors
+- [Tiled Map Editor](https://github.com/bjorn/tiled) - A flexible level editor.
 - [Phaser Editor 2D](https://phasereditor2d.com) - A web-based IDEfor HTML5 game development.
 - [Aseprite](https://www.aseprite.org) - Animated sprite editor & pixel art tool.
 
@@ -106,6 +107,7 @@
 - [Emanuele Feronato](https://www.emanueleferonato.com) - Posts about Game design, HTML5, Phaser, JavaScript, Monetize, Box2D, Unity3D.
 
 ### Other Awesome Lists
+- [jsGameWiki](https://github.com/DaRaFF/jsgamewiki) - A collection of good links for gaming with javascript.
 - [Games on GitHub](https://github.com/leereilly/games) - A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 
 ## Contributors ✨
