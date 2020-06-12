@@ -31,17 +31,6 @@
   <img width="600px" alt="Awesome Resources" src="img/res.png">
 </p>
 
-### Competitions
-- [Js13kGames](https://js13kgames.com) - Create HTML5 games that will fit in a zip package of only 13 kilobytes.
-- [Ludum Dare game jam](https://ldjam.com/games) - An online event where games are made from scratch in a weekend.
-
-### Courses
-- [Codecademy](https://www.codecademy.com/catalog/language/javascript) - JavaScript Courses & Tutorials.
-- [CodeCombat: Learn to Code by Playing a Game](https://github.com/codecombat/codecombat) - Learn programming with a multiplayer live coding strategy game for beginners.
-- [Codewars](https://www.codewars.com) - Achieve mastery through challenge.
-
-### Forums
-- [HTML5 Game Devs Forum](https://www.html5gamedevs.com) - A forum about Phaser, Pixi, Babylon, Panda 2, melonJS, Collaborations, Services and Jobs!
 
 ### Game Engines
 #### 2D
@@ -61,6 +50,17 @@
 ### Physics
 - [Matter.js](https://github.com/liabru/matter-js) - A JavaScript 2D rigid body physics engine for the web.
 
+### Audio Resources
+- [A port of sfxr to HTML5](http://github.grumdrig.com/jsfxr) - Dead easy game sound effects generator.
+
+### Visual Resources
+- [OpenGameArt.org](https://opengameart.org) - Free, legal art for open source game projects (includes models, sprites, textures, sounds, music).
+
+### Editors
+- [Tiled Map Editor](https://github.com/bjorn/tiled) - A flexible level editor.
+- [Phaser Editor 2D](https://phasereditor2d.com) - A web-based IDEfor HTML5 game development.
+- [Aseprite](https://www.aseprite.org) - Animated sprite editor & pixel art tool.
+
 ### Generators
 - [Stitches](https://draeton.github.io/stitches) - An HTML5 sprite sheet generator.
 - [Audiosprite](https://github.com/tonistiigi/audiosprite) - A ffmpeg wrapper that will take in multiple audio files and combines them into a single file.
@@ -71,18 +71,28 @@
 ### Compilers
 - [Emscripten: An LLVM-to-Web Compiler](https://github.com/emscripten-core/emscripten) - Compiles C and C++ to WebAssembly using LLVM and Binaryen. Emscripten output can run on the Web, in Node.js, and in wasm runtimes.
 
-### Testing
-- [stats.js](https://github.com/mrdoob/stats.js) - JavaScript Performance Monitor.
-- [Leshy SpriteSheet Animator](https://www.leshylabs.com/apps/spriteSheetAnimator) - Online Sprite Sheet Animation Utility.
-
 ### Guides
 - [browserdiet.com](https://browserdiet.com) - The definitive front-end performance guide.
 - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden) - A growing collection of documentation about the most quirky parts of the JavaScript programming language.
 
-### Editors
-- [Tiled Map Editor](https://github.com/bjorn/tiled) - A flexible level editor.
-- [Phaser Editor 2D](https://phasereditor2d.com) - A web-based IDEfor HTML5 game development.
-- [Aseprite](https://www.aseprite.org) - Animated sprite editor & pixel art tool.
+### Books
+- [HTML5 Cross Platform Game Development Using Phaser 3](https://gumroad.com/l/odKJf) - The first Phaser 3 guide to the creation of HTML5 cross platform games using Phaser 3 framework and other free software.
+
+### Competitions
+- [Js13kGames](https://js13kgames.com) - Create HTML5 games that will fit in a zip package of only 13 kilobytes.
+- [Ludum Dare game jam](https://ldjam.com/games) - An online event where games are made from scratch in a weekend.
+
+### Courses
+- [Codecademy](https://www.codecademy.com/catalog/language/javascript) - JavaScript Courses & Tutorials.
+- [CodeCombat: Learn to Code by Playing a Game](https://github.com/codecombat/codecombat) - Learn programming with a multiplayer live coding strategy game for beginners.
+- [Codewars](https://www.codewars.com) - Achieve mastery through challenge.
+
+### Tutorials
+- [Codrops](https://tympanus.net/codrops/category/tutorials) - Useful tutorials, insightful articles, creative inspiration and free resources for web designers and developers.
+- [Emanuele Feronato](https://www.emanueleferonato.com) - Posts about Game design, HTML5, Phaser, JavaScript, Monetize, Box2D, Unity3D.
+
+### Forums
+- [HTML5 Game Devs Forum](https://www.html5gamedevs.com) - A forum about Phaser, Pixi, Babylon, Panda 2, melonJS, Collaborations, Services and Jobs!
 
 ### Marketplaces
 - [GamePix](https://company.gamepix.com) - Platform for developers and publishers with interesting blog posts.
@@ -93,18 +103,12 @@
 ### Monetization
 - [Awesome Web Monetization](https://github.com/thomasbnt/awesome-web-monetization) - Awesome stuffs about Web Monetization. Learn more, check modules and others tools.
 
-### Audio Resources
-- [A port of sfxr to HTML5](http://github.grumdrig.com/jsfxr) - Dead easy game sound effects generator.
+### Testing
+- [stats.js](https://github.com/mrdoob/stats.js) - JavaScript Performance Monitor.
+- [Leshy SpriteSheet Animator](https://www.leshylabs.com/apps/spriteSheetAnimator) - Online Sprite Sheet Animation Utility.
 
-### Visual Resources
-- [OpenGameArt.org](https://opengameart.org) - Free, legal art for open source game projects (includes models, sprites, textures, sounds, music).
-
-### Books
-- [HTML5 Cross Platform Game Development Using Phaser 3](https://gumroad.com/l/odKJf) - The first Phaser 3 guide to the creation of HTML5 cross platform games using Phaser 3 framework and other free software.
-
-### Tutorials
-- [Codrops](https://tympanus.net/codrops/category/tutorials) - Useful tutorials, insightful articles, creative inspiration and free resources for web designers and developers.
-- [Emanuele Feronato](https://www.emanueleferonato.com) - Posts about Game design, HTML5, Phaser, JavaScript, Monetize, Box2D, Unity3D.
+### Security
+- [Jscrambler](https://jscrambler.com) - A JavaScript interpreter and parsing engine that creates an Abstract Syntax Tree representing your source code to make it extremely difficult to reverse engineer.
 
 ### Other Awesome Lists
 - [jsGameWiki](https://github.com/DaRaFF/jsgamewiki) - A collection of good links for gaming with javascript.
