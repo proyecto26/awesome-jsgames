@@ -24,7 +24,9 @@
 
 ---
 
-# Awesome Resources
+<p align="center">
+  <img width="600px" alt="Awesome Resources" src="img/resources.png">
+</p>
 
 ### Courses
 - [Codecademy](https://www.codecademy.com/catalog/language/javascript) - JavaScript Courses & Tutorials.
