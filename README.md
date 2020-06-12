@@ -30,10 +30,18 @@
 - [CodeCombat: Learn to Code by Playing a Game](https://github.com/codecombat/codecombat) - Learn programming with a multiplayer live coding strategy game for beginners.
 
 ### Game Engines
-- [Babylonjs](https://github.com/BabylonJS/Babylon.js) - A powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
-- [Phaser](https://github.com/photonstorm/phaser) - Desktop and Mobile HTML5 game framework. A fast, free and fun open source framework for Canvas and WebGL powered browser games.
+#### 2D
+  - [GDevelop](https://github.com/4ian/GDevelop) - An open-source, cross-platform game engine designed to be used by everyone..
+  - [melonJS](https://github.com/melonjs/melonjs) - A fresh & lightweight HTML5 game engine.
+  - [PixiJS](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+  - [Phaser](https://github.com/photonstorm/phaser) - Desktop and Mobile HTML5 game framework. A fast, free and fun open source framework for Canvas and WebGL powered browser games.
+#### 3D
+  - [Babylonjs](https://github.com/BabylonJS/Babylon.js) - A powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
+  - [PlayCanvas](https://github.com/playcanvas/engine) - Fast and lightweight WebGL game engine.
+  - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 
 ### Vector Graphics
+- [p5.js](https://github.com/processing/p5.js) - A client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing.
 - [Paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting.
 
 ### Physics
