@@ -28,6 +28,10 @@
 ### Courses
 - [Codecademy](https://www.codecademy.com/catalog/language/javascript) - JavaScript Courses & Tutorials.
 - [CodeCombat: Learn to Code by Playing a Game](https://github.com/codecombat/codecombat) - Learn programming with a multiplayer live coding strategy game for beginners.
+- [Codewars](https://www.codewars.com) - Achieve mastery through challenge.
+
+### Forums
+- [HTML5 Game Devs Forum](https://www.html5gamedevs.com) - A forum about Phaser, Pixi, Babylon, Panda 2, melonJS, Collaborations, Services and Jobs!
 
 ### Game Engines
 #### 2D
@@ -48,10 +52,14 @@
 - [Matter.js](https://github.com/liabru/matter-js) - A JavaScript 2D rigid body physics engine for the web.
 
 ### Generators
+- [Stitches](https://draeton.github.io/stitches) - An HTML5 sprite sheet generator.
 - [Audiosprite](https://github.com/tonistiigi/audiosprite) - A ffmpeg wrapper that will take in multiple audio files and combines them into a single file.
 
 ### Build tools
 - [Brunch](https://github.com/brunch/brunch) - Fast front-end web app build tool with simple declarative config and seamless incremental compilation for rapid development.
+
+## Testing
+- [Leshy SpriteSheet Animator](https://www.leshylabs.com/apps/spriteSheetAnimator) - Online Sprite Sheet Animation Utility.
 
 ### Guides
 - [browserdiet.com](https://browserdiet.com) - The definitive front-end performance guide.
