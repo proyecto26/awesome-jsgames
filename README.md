@@ -11,9 +11,12 @@
 </p>
 
 <h1 align="center">Awesome JavaScript Games</h1>
-<h4 align="center">A curated list of awesome JavaScript Games, assets and resources.</h4>
+<h4 align="center">A curated list of awesome JavaScript Games (Open Source), assets and resources.</h4>
 <p align="center">
-  <img width="600px" alt="JavaScript Games" src="img/js-games.jpg">
+  <img width="600px" alt="JavaScript Games" src="img/javascript-games.png">
+  <p align="center">
+    <i>Credits to https://codepen.io/boldfacedesign/pen/EoGgD</i>
+  </p>
 </p>
 
 ### Action Puzzle
@@ -25,7 +28,7 @@
 ---
 
 <p align="center">
-  <img width="600px" alt="Awesome Resources" src="img/resources.png">
+  <img width="600px" alt="Awesome Resources" src="img/res.png">
 </p>
 
 ### Courses
