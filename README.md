@@ -2,6 +2,9 @@
   <a href="https://github.com/proyecto26/awesome-jsgames/graphs/commit-activity">
     <img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg" alt="Maintenance" />
   </a>
+  <a href="https://www.facebook.com/groups/javascriptgames">
+    <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" alt="Facebook Page" />
+  </a>
   <a href="https://twitter.com/intent/follow?screen_name=jdnichollsc">
     <img src="https://img.shields.io/twitter/follow/jdnichollsc.svg?label=Follow%20@jdnichollsc" alt="Follow @jdnichollsc" />
   </a>
@@ -19,9 +22,7 @@
 ### VR
 - [Back to Space](https://js13kgames.com/entries/back-to-space) - 40 Years ago we thought we had defeated them. But they are back! Now it's up to you!
 
-
-
-
+---
 
 # Awesome Resources
 
@@ -58,7 +59,7 @@
 ### Build tools
 - [Brunch](https://github.com/brunch/brunch) - Fast front-end web app build tool with simple declarative config and seamless incremental compilation for rapid development.
 
-## Testing
+### Testing
 - [Leshy SpriteSheet Animator](https://www.leshylabs.com/apps/spriteSheetAnimator) - Online Sprite Sheet Animation Utility.
 
 ### Guides
