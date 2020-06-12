@@ -27,6 +27,7 @@
 
 ### Courses
 - [Codecademy](https://www.codecademy.com/catalog/language/javascript) - JavaScript Courses & Tutorials.
+- [CodeCombat: Learn to Code by Playing a Game](https://github.com/codecombat/codecombat) - Learn programming with a multiplayer live coding strategy game for beginners.
 
 ### Game Engines
 - [Babylonjs](https://github.com/BabylonJS/Babylon.js) - A powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
@@ -40,6 +41,9 @@
 
 ### Generators
 - [Audiosprite](https://github.com/tonistiigi/audiosprite) - A ffmpeg wrapper that will take in multiple audio files and combines them into a single file.
+
+### Build tools
+- [Brunch](https://github.com/brunch/brunch) - Fast front-end web app build tool with simple declarative config and seamless incremental compilation for rapid development.
 
 ### Guides
 - [browserdiet.com](https://browserdiet.com) - The definitive front-end performance guide.
@@ -60,6 +64,9 @@
 
 ### Books
 - [HTML5 Cross Platform Game Development Using Phaser 3](https://gumroad.com/l/odKJf) - The first Phaser 3 guide to the creation of HTML5 cross platform games using Phaser 3 framework and other free software.
+
+### Tutorials
+- [Codrops](https://tympanus.net/codrops/category/tutorials) - Useful tutorials, insightful articles, creative inspiration and free resources for web designers and developers.
 
 ### Other Awesome Lists
 - [Games on GitHub](https://github.com/leereilly/games) - A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
