@@ -58,6 +58,9 @@
   - [Babylonjs](https://github.com/BabylonJS/Babylon.js) - A powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
   - [PlayCanvas](https://github.com/playcanvas/engine) - Fast and lightweight WebGL game engine.
   - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
+  
+### Micro-libraries
+- [Kontra](https://straker.github.io/kontra) - A lightweight JavaScript gaming micro-library created specifically for the Js13kGames game jam.
 
 ### Graphics
 - [p5.js](https://github.com/processing/p5.js) - A client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing.
@@ -76,6 +79,7 @@
 - [Tiled Map Editor](https://github.com/bjorn/tiled) - A flexible level editor.
 - [Phaser Editor 2D](https://phasereditor2d.com) - A web-based IDEfor HTML5 game development.
 - [Aseprite](https://www.aseprite.org) - Animated sprite editor & pixel art tool.
+- [Piskel](https://github.com/piskelapp/piskel) - A free online editor for animated sprites & pixel art.
 
 ### Generators
 - [Stitches](https://draeton.github.io/stitches) - An HTML5 sprite sheet generator.
