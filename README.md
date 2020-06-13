@@ -72,6 +72,7 @@
   - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
   
 ### Micro-libraries
+- [jsfxr](https://www.npmjs.com/package/jsfxr) - [as3fxr](http://code.google.com/p/as3sfxr) synth port to JavaScript created for js13kGames.
 - [Kontra](https://straker.github.io/kontra) - A lightweight JavaScript gaming micro-library created specifically for the Js13kGames game jam.
 - [js13k-2d](https://github.com/kutuluk/js13k-2d) - A 2kb webgl 2d sprite renderer, designed for Js13kGames.
 - [IonPhaser](https://github.com/proyecto26/ion-phaser) - A web component to use Phaser Framework with Angular, React, Vue, etc 🎮
