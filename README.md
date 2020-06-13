@@ -47,7 +47,7 @@
 ### Strategy
 - [Elematter](http://js13kgames.com/entries/elematter) - Elematter is a tower defense game based on the four elements: Earth, Water, Air and Fire.
 
-### VR
+### Virtual Reality
 - [Back to Space](https://js13kgames.com/entries/back-to-space) - 40 Years ago we thought we had defeated them. But they are back! Now it's up to you!
 
 ### Web Components
@@ -85,6 +85,9 @@
 ### Physics
 - [Matter.js](https://github.com/liabru/matter-js) - A JavaScript 2D rigid body physics engine for the web.
 
+### Virtual Reality
+- [A-Frame](https://github.com/aframevr/aframe) - A web framework for building virtual reality experiences.
+
 ### Audio Resources
 - [A port of sfxr to HTML5](http://github.grumdrig.com/jsfxr) - Dead easy game sound effects generator.
 - [TinyMusic](https://github.com/kevincennis/TinyMusic) - A simple, lightweight music synth/sequencer in JavaScript using the Web Audio API.
@@ -111,6 +114,9 @@
 
 ### Compilers
 - [Emscripten: An LLVM-to-Web Compiler](https://github.com/emscripten-core/emscripten) - Compiles C and C++ to WebAssembly using LLVM and Binaryen. Emscripten output can run on the Web, in Node.js, and in wasm runtimes.
+
+### Templates
+- [JS13K A-Frame Boilerplate](https://github.com/mguinea/js13k-aframe-boilerplate) - An A-Frame boilerplate for the js13k competition.
 
 ### Guides
 - [browserdiet.com](https://browserdiet.com) - The definitive front-end performance guide.
