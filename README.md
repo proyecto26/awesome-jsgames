@@ -27,6 +27,7 @@
 ### Adventure
 - [Bounce Back](https://js13kgames.com/entries/bounce-back) - Boomerang adventure game for JS13k!
 - [Offline Paradise](https://js13kgames.com/entries/offline-paradise) - The world, a paradise, has gone offline; everything has become grey and dangerous. Traverse, jump and dash over the obstacles to turn the world back into normal.
+- [Planetfall](https://js13kgames.com/entries/planetfall) - A space exploration game. The goal is to find satellite stations on each planet and take them offline.
 - [Quest of Tod](https://js13kgames.com/entries/quest-of-tod) - A speed running adventure game, where you stuck inside unknown place controlled by strange machine. Can you find all the keys and codes to unlock the exit before the time runs out?.
 
 ### Arcade
@@ -39,6 +40,7 @@
 - [Way Out](https://js13kgames.com/entries/way-out) - The door is locked. You'll have to explore a dangerous dungeon full of traps and monsters and find 4 lost gems to open the door and get your WAY OUT!
 
 ### Puzzle
+- [Enmeshed](https://js13kgames.com/entries/enmeshed) - A hacking puzzle / strategy game. Exploit vulnerabilities in nodes and connections to knock a dynamically-routed mesh network offline. 
 - [Raven](http://js13kgames.com/entries/raven) - The security cameras for a secret facility have been taken offline, and it is YOUR job to fix the problem.
 
 ### Shooter
