@@ -19,8 +19,24 @@
   </p>
 </p>
 
+### Winners
+- [js13kGames 2019](https://github.blog/2019-10-08-js13k-2019-highlights) - Highlights from the js13kGames 2019 competition.
+- [js13kGames 2018](https://github.blog/2018-10-05-js13kgames-highlights-2018) - 13 Games in ≤ 13kB of JavaScript.
+- [js13kGames 2017](https://github.blog/2017-07-31-build-a-game-in-13kb-or-less-with-js13kgames) - Build a game in 13kB or less with js13kGames.
+
+### Arcade
+- [Evil glitch](http://js13kgames.com/entries/evil-glitch) - Strange glitches appear in your dimension, could you stop them to assimilate your world?
+
 ### Action Puzzle
 - [Raven](http://js13kgames.com/entries/raven) - The security cameras for a secret facility have been taken offline, and it is YOUR job to fix the problem.
+
+### Platformer
+- [ONOFF](https://js13kgames.com/entries/onoff) - Navigate through 25 brain-teasing levels in this fast-paced, hand-crafted platformer. You'll dodge spikes, jump over pits, and toggle between dimensions.
+- [The Matr13k](https://js13kgames.com/entries/the-matr13k) - After saving Morpheus, Neo needs to find an exit from this JavaScript version of the matrix.
+- [Vier](https://js13kgames.com/entries/vier-wizard-wars) - You have the power to control the 4 elements with the VIER stone, It's time to destroy all the wizards and become the ruler of the universe.
+
+### Shooter
+- [UNDERRUN](https://js13kgames.com/entries/underrun) - A twin stick shooter in 256 shades of brown.
 
 ### VR
 - [Back to Space](https://js13kgames.com/entries/back-to-space) - 40 Years ago we thought we had defeated them. But they are back! Now it's up to you!
