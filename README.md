@@ -42,6 +42,9 @@
 ### Shooter
 - [UNDERRUN](https://js13kgames.com/entries/underrun) - A twin stick shooter in 256 shades of brown.
 
+### Strategy
+- [Elematter](http://js13kgames.com/entries/elematter) - Elematter is a tower defense game based on the four elements: Earth, Water, Air and Fire.
+
 ### VR
 - [Back to Space](https://js13kgames.com/entries/back-to-space) - 40 Years ago we thought we had defeated them. But they are back! Now it's up to you!
 
@@ -65,6 +68,7 @@
   
 ### Micro-libraries
 - [Kontra](https://straker.github.io/kontra) - A lightweight JavaScript gaming micro-library created specifically for the Js13kGames game jam.
+- [js13k-2d](https://github.com/kutuluk/js13k-2d) - A 2kb webgl 2d sprite renderer, designed for Js13kGames.
 
 ### Graphics
 - [p5.js](https://github.com/processing/p5.js) - A client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing.
