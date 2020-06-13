@@ -26,6 +26,7 @@
 
 ### Adventure
 - [Bounce Back](https://js13kgames.com/entries/bounce-back) - Boomerang adventure game for JS13k!
+- [Offline Paradise](https://js13kgames.com/entries/offline-paradise) - The world, a paradise, has gone offline; everything has become grey and dangerous. Traverse, jump and dash over the obstacles to turn the world back into normal.
 
 ### Arcade
 - [Evil glitch](http://js13kgames.com/entries/evil-glitch) - Strange glitches appear in your dimension, could you stop them to assimilate your world?
