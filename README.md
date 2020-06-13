@@ -35,6 +35,7 @@
 - [ONOFF](https://js13kgames.com/entries/onoff) - Navigate through 25 brain-teasing levels in this fast-paced, hand-crafted platformer. You'll dodge spikes, jump over pits, and toggle between dimensions.
 - [The Matr13k](https://js13kgames.com/entries/the-matr13k) - After saving Morpheus, Neo needs to find an exit from this JavaScript version of the matrix.
 - [Vier](https://js13kgames.com/entries/vier-wizard-wars) - You have the power to control the 4 elements with the VIER stone, It's time to destroy all the wizards and become the ruler of the universe.
+- [Way Out](https://js13kgames.com/entries/way-out) - The door is locked. You'll have to explore a dangerous dungeon full of traps and monsters and find 4 lost gems to open the door and get your WAY OUT!
 
 ### Puzzle
 - [Raven](http://js13kgames.com/entries/raven) - The security cameras for a secret facility have been taken offline, and it is YOUR job to fix the problem.
@@ -79,9 +80,11 @@
 
 ### Audio Resources
 - [A port of sfxr to HTML5](http://github.grumdrig.com/jsfxr) - Dead easy game sound effects generator.
+- [TinyMusic](https://github.com/kevincennis/TinyMusic) - A simple, lightweight music synth/sequencer in JavaScript using the Web Audio API.
 
 ### Visual Resources
 - [OpenGameArt.org](https://opengameart.org) - Free, legal art for open source game projects (includes models, sprites, textures, sounds, music).
+- [TinyPNG](https://tinypng.com) - Compress PNG images while preserving transparency.
 
 ### Real-Time
 - [Snapshot Interpolation](https://github.com/geckosio/snapshot-interpolation) - A Snapshot Interpolation library for Real-Time Multiplayer Games.
