@@ -24,6 +24,9 @@
 - [js13kGames 2018](https://github.blog/2018-10-05-js13kgames-highlights-2018) - 13 Games in ≤ 13kB of JavaScript.
 - [js13kGames 2017](https://github.blog/2017-07-31-build-a-game-in-13kb-or-less-with-js13kgames) - Build a game in 13kB or less with js13kGames.
 
+### Adventure
+- [Bounce Back](https://js13kgames.com/entries/bounce-back) - Boomerang adventure game for JS13k!
+
 ### Arcade
 - [Evil glitch](http://js13kgames.com/entries/evil-glitch) - Strange glitches appear in your dimension, could you stop them to assimilate your world?
 
