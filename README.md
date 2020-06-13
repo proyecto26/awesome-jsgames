@@ -75,6 +75,9 @@
 ### Visual Resources
 - [OpenGameArt.org](https://opengameart.org) - Free, legal art for open source game projects (includes models, sprites, textures, sounds, music).
 
+## Real-Time
+- [Snapshot Interpolation](https://github.com/geckosio/snapshot-interpolation) - A Snapshot Interpolation library for Real-Time Multiplayer Games.
+
 ### Editors
 - [Tiled Map Editor](https://github.com/bjorn/tiled) - A flexible level editor.
 - [Phaser Editor 2D](https://phasereditor2d.com) - A web-based IDEfor HTML5 game development.
