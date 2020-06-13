@@ -130,6 +130,9 @@
 - [Codrops](https://tympanus.net/codrops/category/tutorials) - Useful tutorials, insightful articles, creative inspiration and free resources for web designers and developers.
 - [Emanuele Feronato](https://www.emanueleferonato.com) - Posts about Game design, HTML5, Phaser, JavaScript, Monetize, Box2D, Unity3D.
 
+### Workshops
+- [Phaser CE Workshop using ES6](https://github.com/proyecto26/Phaser-Workshop) - Isometric worlds and Real Time games.
+
 ### Forums
 - [HTML5 Game Devs Forum](https://www.html5gamedevs.com) - A forum about Phaser, Pixi, Babylon, Panda 2, melonJS, Collaborations, Services and Jobs!
 
