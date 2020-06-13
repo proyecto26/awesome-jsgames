@@ -27,6 +27,7 @@
 ### Adventure
 - [Bounce Back](https://js13kgames.com/entries/bounce-back) - Boomerang adventure game for JS13k!
 - [Offline Paradise](https://js13kgames.com/entries/offline-paradise) - The world, a paradise, has gone offline; everything has become grey and dangerous. Traverse, jump and dash over the obstacles to turn the world back into normal.
+- [Quest of Tod](https://js13kgames.com/entries/quest-of-tod) - A speed running adventure game, where you stuck inside unknown place controlled by strange machine. Can you find all the keys and codes to unlock the exit before the time runs out?.
 
 ### Arcade
 - [Evil glitch](http://js13kgames.com/entries/evil-glitch) - Strange glitches appear in your dimension, could you stop them to assimilate your world?
@@ -49,6 +50,9 @@
 ### VR
 - [Back to Space](https://js13kgames.com/entries/back-to-space) - 40 Years ago we thought we had defeated them. But they are back! Now it's up to you!
 
+### Web Components
+- [Scroll!](https://github.com/ZeevKatz/scroll) - A Face to Face fighting game for mobile that you can play in your browser.
+
 ---
 
 <p align="center">
@@ -70,6 +74,7 @@
 ### Micro-libraries
 - [Kontra](https://straker.github.io/kontra) - A lightweight JavaScript gaming micro-library created specifically for the Js13kGames game jam.
 - [js13k-2d](https://github.com/kutuluk/js13k-2d) - A 2kb webgl 2d sprite renderer, designed for Js13kGames.
+- [IonPhaser](https://github.com/proyecto26/ion-phaser) - A web component to integrate Phaser Framework with Angular, React, Vue, etc 🎮
 
 ### Graphics
 - [p5.js](https://github.com/processing/p5.js) - A client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing.
