@@ -74,7 +74,8 @@
 ### Micro-libraries
 - [Kontra](https://straker.github.io/kontra) - A lightweight JavaScript gaming micro-library created specifically for the Js13kGames game jam.
 - [js13k-2d](https://github.com/kutuluk/js13k-2d) - A 2kb webgl 2d sprite renderer, designed for Js13kGames.
-- [IonPhaser](https://github.com/proyecto26/ion-phaser) - A web component to integrate Phaser Framework with Angular, React, Vue, etc 🎮
+- [IonPhaser](https://github.com/proyecto26/ion-phaser) - A web component to use Phaser Framework with Angular, React, Vue, etc 🎮
+- [Animatable](https://github.com/proyecto26/animatable-component) - Animate once, use Everywhere! 💫
 
 ### Graphics
 - [p5.js](https://github.com/processing/p5.js) - A client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing.
