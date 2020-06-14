@@ -119,7 +119,9 @@
 - [Stitches](https://draeton.github.io/stitches) - An HTML5 sprite sheet generator.
 - [Audiosprite](https://github.com/tonistiigi/audiosprite) - A ffmpeg wrapper that will take in multiple audio files and combines them into a single file.
 
-### Build tools
+### Build
+- [Electron](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
+- [NW.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 - [Brunch](https://github.com/brunch/brunch) - Fast front-end web app build tool with simple declarative config and seamless incremental compilation for rapid development.
 
 ### Compilers
@@ -139,7 +141,8 @@
 
 ### Competitions
 - [Js13kGames](https://js13kgames.com) - Create HTML5 games that will fit in a zip package of only 13 kilobytes.
-- [Ludum Dare game jam](https://ldjam.com/games) - An online event where games are made from scratch in a weekend.
+- [Ludum Dare](https://ldjam.com/games) - An online event where games are made from scratch in a weekend.
+- [Node Knockout](https://www.nodeknockout.com) - The world's biggest Node.js programming competition.
 
 ### Courses
 - [Codecademy](https://www.codecademy.com/catalog/language/javascript) - JavaScript Courses & Tutorials.
