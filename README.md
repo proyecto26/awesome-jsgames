@@ -84,6 +84,7 @@
 - [SAT.js](https://github.com/jriecken/sat-js) - A simple JavaScript library for performing 2D collision detection.
 - [jsfxr](https://www.npmjs.com/package/jsfxr) - [as3fxr](http://code.google.com/p/as3sfxr) synth port to JavaScript created for js13kGames.
 - [Kontra](https://straker.github.io/kontra) - A lightweight JavaScript gaming micro-library created specifically for the Js13kGames game jam.
+- [Hexi](https://github.com/kittykatattack/hexi) - A fun and easy way to make HTML5 games or any other kind interactive media using pure JavaScript code.
 - [js13k-2d](https://github.com/kutuluk/js13k-2d) - A 2kb webgl 2d sprite renderer, designed for Js13kGames.
 - [IonPhaser](https://github.com/proyecto26/ion-phaser) - A web component to use Phaser Framework with Angular, React, Vue, etc 🎮
 - [Animatable](https://github.com/proyecto26/animatable-component) - Animate once, use Everywhere! 💫
@@ -122,10 +123,12 @@
 ### Build
 - [Electron](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
 - [NW.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
-- [Brunch](https://github.com/brunch/brunch) - Fast front-end web app build tool with simple declarative config and seamless incremental compilation for rapid development.
+- [Cordova](https://github.com/apache/cordova) - Mobile apps with HTML, CSS & JS. Target multiple platforms with one code base.
+- [Capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the web ⚡️
 
 ### Compilers
 - [Emscripten: An LLVM-to-Web Compiler](https://github.com/emscripten-core/emscripten) - Compiles C and C++ to WebAssembly using LLVM and Binaryen. Emscripten output can run on the Web, in Node.js, and in wasm runtimes.
+- [Brunch](https://github.com/brunch/brunch) - Fast front-end web app build tool with simple declarative config and seamless incremental compilation for rapid development.
 
 ### Templates
 - [js13kserver](https://github.com/js13kGames/js13kserver) - js13kGames Server category files and rules.
