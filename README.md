@@ -42,6 +42,7 @@
 ### Puzzle
 - [Enmeshed](https://js13kgames.com/entries/enmeshed) - A hacking puzzle / strategy game. Exploit vulnerabilities in nodes and connections to knock a dynamically-routed mesh network offline. 
 - [Raven](http://js13kgames.com/entries/raven) - The security cameras for a secret facility have been taken offline, and it is YOUR job to fix the problem.
+- [Lost Treasure](http://js13kgames.com/entries/lost-treasure) - 'Lost Treasure' is a short retro style puzzle-platformer game. There are 7 different levels (for now) to go through and collect treasure back to little Flo.
 
 ### Shooter
 - [UNDERRUN](https://js13kgames.com/entries/underrun) - A twin stick shooter in 256 shades of brown.
@@ -54,6 +55,9 @@
 
 ### Web Components
 - [Scroll!](https://github.com/ZeevKatz/scroll) - A Face to Face fighting game for mobile that you can play in your browser.
+
+### Uncategorized
+- [LOST ROBOT](https://js13kgames.com/entries/lost-robot) - If I'd written the mapping module, it wouldn't be offline!
 
 ---
 
@@ -118,6 +122,7 @@
 - [Emscripten: An LLVM-to-Web Compiler](https://github.com/emscripten-core/emscripten) - Compiles C and C++ to WebAssembly using LLVM and Binaryen. Emscripten output can run on the Web, in Node.js, and in wasm runtimes.
 
 ### Templates
+- [js13kserver](https://github.com/js13kGames/js13kserver) - js13kGames Server category files and rules.
 - [JS13K A-Frame Boilerplate](https://github.com/mguinea/js13k-aframe-boilerplate) - An A-Frame boilerplate for the js13k competition.
 
 ### Guides
