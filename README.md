@@ -153,6 +153,8 @@
 
 ### Guides
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html).
+- [WebGL guide](https://xem.github.io/articles/webgl-guide) - A complete, summarized WebGL tutorial, with tiny interactive demos in each chapter.
+- [Math for games](https://gist.github.com/xem/99930986c5333125a13b0ea50600391f) - Maths & trigonometry cheat sheet for 2D & 3D games.
 - [browserdiet.com](https://browserdiet.com) - The definitive front-end performance guide.
 - [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden) - A growing collection of documentation about the most quirky parts of the JavaScript programming language.
 
@@ -176,6 +178,7 @@
 
 ### Tutorials
 - [Game Mechanic Explorer](https://gamemechanicexplorer.com) - A collection of concrete examples for various game mechanics, algorithms, and effects.
+- [Procedurally Generated Dungeon](https://craiky.github.io/tutorial) - A Procedurally Generated Dungeon Tutorial in Java-Script.
 - [Gamedev Tuts+](https://gamedev.tutsplus.com) - The best place to find game development tutorials.
 - [Codrops](https://tympanus.net/codrops/category/tutorials) - Useful tutorials, insightful articles, creative inspiration and free resources for web designers and developers.
 - [Emanuele Feronato](https://www.emanueleferonato.com) - Posts about Game design, HTML5, Phaser, JavaScript, Monetize, Box2D, Unity3D.
