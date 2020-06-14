@@ -114,7 +114,11 @@
 
 ### Visual Resources
 - [OpenGameArt.org](https://opengameart.org) - Free, legal art for open source game projects (includes models, sprites, textures, sounds, music).
+- [The Spriters Resource](https://www.spriters-resource.com) - The #1 source for video game sprites on the internet!
+- [Sprite Database](https://spritedatabase.net) - Sprite rips from classic games.
 - [TinyPNG](https://tinypng.com) - Compress PNG images while preserving transparency.
+- [Arcade Font Writer](http://arcade.photonstorm.com) - Create your own text using hundreds of fonts from classic Arcade games.
+- [ShoeBox](https://renderhjs.net/shoebox) - A free Adobe Air based app for Windows and Mac OSX with game and ui related tools.
 
 ### Real-Time
 - [Snapshot Interpolation](https://github.com/geckosio/snapshot-interpolation) - A Snapshot Interpolation library for Real-Time Multiplayer Games.
