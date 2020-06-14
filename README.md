@@ -40,6 +40,7 @@
 - [Way Out](https://js13kgames.com/entries/way-out) - The door is locked. You'll have to explore a dangerous dungeon full of traps and monsters and find 4 lost gems to open the door and get your WAY OUT!
 
 ### Puzzle
+- [Planet Figadore has gone OFFLINE](https://js13kgames.com/entries/planet-figadore-has-gone-offline) - Fred lives on planet Figadore in the Hercules cluster, he likes watching cat videos from planet Earth via Parallax Shift, but the network link has gone OFFLINE!
 - [Enmeshed](https://js13kgames.com/entries/enmeshed) - A hacking puzzle / strategy game. Exploit vulnerabilities in nodes and connections to knock a dynamically-routed mesh network offline. 
 - [Raven](http://js13kgames.com/entries/raven) - The security cameras for a secret facility have been taken offline, and it is YOUR job to fix the problem.
 - [Lost Treasure](http://js13kgames.com/entries/lost-treasure) - 'Lost Treasure' is a short retro style puzzle-platformer game. There are 7 different levels (for now) to go through and collect treasure back to little Flo.
@@ -72,6 +73,7 @@
   - [melonJS](https://github.com/melonjs/melonjs) - A fresh & lightweight HTML5 game engine.
   - [PixiJS](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
   - [Phaser](https://github.com/photonstorm/phaser) - Desktop and Mobile HTML5 game framework. A fast, free and fun open source framework for Canvas and WebGL powered browser games.
+  - [BLACKSMITH 2D](https://github.com/MassiveHeights/Black) - Black is a highly optimized 2D framework for web, mobile games, and playable ads.
 #### 3D
   - [Babylonjs](https://github.com/BabylonJS/Babylon.js) - A powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
   - [PlayCanvas](https://github.com/playcanvas/engine) - Fast and lightweight WebGL game engine.
@@ -128,6 +130,7 @@
 - [JS13K A-Frame Boilerplate](https://github.com/mguinea/js13k-aframe-boilerplate) - An A-Frame boilerplate for the js13k competition.
 
 ### Guides
+- [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html).
 - [browserdiet.com](https://browserdiet.com) - The definitive front-end performance guide.
 - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden) - A growing collection of documentation about the most quirky parts of the JavaScript programming language.
 
@@ -144,6 +147,7 @@
 - [Codewars](https://www.codewars.com) - Achieve mastery through challenge.
 
 ### Tutorials
+- [Gamedev Tuts+](http://gamedev.tutsplus.com) - The best place to find game development tutorials.
 - [Codrops](https://tympanus.net/codrops/category/tutorials) - Useful tutorials, insightful articles, creative inspiration and free resources for web designers and developers.
 - [Emanuele Feronato](https://www.emanueleferonato.com) - Posts about Game design, HTML5, Phaser, JavaScript, Monetize, Box2D, Unity3D.
 
@@ -153,11 +157,13 @@
 ### Forums
 - [HTML5 Game Devs Forum](https://www.html5gamedevs.com) - A forum about Phaser, Pixi, Babylon, Panda 2, melonJS, Collaborations, Services and Jobs!
 
-### Marketplaces
+### Distribution
+- [5 Apps](https://5apps.com) - Deployment and distribution tools.
 - [GamePix](https://company.gamepix.com) - Platform for developers and publishers with interesting blog posts.
 - [MarketJS](https://www.marketjs.com) - A B2B Platform for licensing HTML5 games. Buy HTML5 games, customize and deploy instantly to your server.
 - [itch.io](https://itch.io) - Distribution and game jam hosting platform for HTML5 games.
 - [CrazyGames](https://www.crazygames.com/t/html5) - New distribution platform for HTML5 games.
+- [Y8 Games](https://www.y8.com) - At Y8 Games, there are over 70,000 games and videos available to play online. We are leading in the latest Unity3D car and dress up games. Y8.COM a leader in online games for over 10 years.
 
 ### Monetization
 - [Awesome Web Monetization](https://github.com/thomasbnt/awesome-web-monetization) - Awesome stuffs about Web Monetization. Learn more, check modules and others tools.
