@@ -140,7 +140,12 @@
 - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden) - A growing collection of documentation about the most quirky parts of the JavaScript programming language.
 
 ### Books
+- [Phaser 3 HTML5 Cross Platform Game Development - Endless Runner](https://gumroad.com/l/FcjQw) - Designed both for beginners and skilled programmers, the course guides you from an empty folder introducing the bare bones of JavaScript to advanced Phaser 3 features.
 - [HTML5 Cross Platform Game Development Using Phaser 3](https://gumroad.com/l/odKJf) - The first Phaser 3 guide to the creation of HTML5 cross platform games using Phaser 3 framework and other free software.
+- [From null to full HTML5 cross platform game](https://gumroad.com/l/HIEux) - Each step of the book is provided with its source code example, for a total of 79 pages and 27 source code examples.
+- [Interphase #1](https://gumroad.com/l/ySfMa) - A 400 page bookazine complete with a coverdisk filled with source code, graphics and more for Phaser CE.
+- [A Guide to the Phaser CE Tween Manager](https://leanpub.com/phasertweenmanager) - Learn how to use the Phaser Tween Manager to its full potential and spice up your games.
+- [A Guide to the Phaser CE Scale Manager](https://leanpub.com/phaserscalemanager) - Phaser has a powerful built-in Scale Manager and this guide teaches you how to unlock its features.
 
 ### Competitions
 - [Js13kGames](https://js13kgames.com) - Create HTML5 games that will fit in a zip package of only 13 kilobytes.
@@ -169,7 +174,7 @@
 - [MarketJS](https://www.marketjs.com) - A B2B Platform for licensing HTML5 games. Buy HTML5 games, customize and deploy instantly to your server.
 - [itch.io](https://itch.io) - Distribution and game jam hosting platform for HTML5 games.
 - [CrazyGames](https://www.crazygames.com/t/html5) - New distribution platform for HTML5 games.
-- [Y8 Games](https://www.y8.com) - At Y8 Games, there are over 70,000 games and videos available to play online. We are leading in the latest Unity3D car and dress up games. Y8.COM a leader in online games for over 10 years.
+- [Y8 Games](https://www.y8.com) - At Y8 Games, there are over 70,000 games and videos available to play online. We are leading in the latest Unity3D car and dress up games.
 
 ### Monetization
 - [Awesome Web Monetization](https://github.com/thomasbnt/awesome-web-monetization) - Awesome stuffs about Web Monetization. Learn more, check modules and others tools.
