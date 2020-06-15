@@ -31,7 +31,9 @@
 - [Quest of Tod](https://js13kgames.com/entries/quest-of-tod) - A speed running adventure game, where you stuck inside unknown place controlled by strange machine. Can you find all the keys and codes to unlock the exit before the time runs out?.
 
 ### Arcade
+- [Everyone's Sky](https://js13kgames.com/entries/everyones-sky) - Make allies by completing missions, study other planets, stars, defend yourself against planetary defenses and pirate groups, or makes enemies by attacking them, ignoring their communications and destroying their facilities.
 - [Evil glitch](https://js13kgames.com/entries/evil-glitch) - Strange glitches appear in your dimension, could you stop them to assimilate your world?
+- [Off The Line](https://js13kgames.com/entries/off-the-line) - Jump off the line and try not to die or throw your keyboard across the room in this twitchy arcade tapper.
 - [Behind Asteroids, The Dark Side](https://js13kgames.com/entries/behind-asteroids-the-dark-side) - A game about throwing asteroids to people playing "Asteroids" on an arcade machine.
 - [Pest Control: Weasels](https://js13kgames.com/entries/pest-control-weasels) - Lemmings were meant to be saved, weasels should instead be disposed of. (consider this as your revenge on small pesky critters!).
 
@@ -43,12 +45,16 @@
 - [Way Out](https://js13kgames.com/entries/way-out) - The door is locked. You'll have to explore a dangerous dungeon full of traps and monsters and find 4 lost gems to open the door and get your WAY OUT!
 
 ### Puzzle
+- [1024 Moves](https://js13kgames.com/entries/1024-moves) - This puzzle can be solved in 1024 movements.
+- [Re-Wire](https://js13kgames.com/entries/re-wire) - Bring the system back online by rewiring the power nodes.
+- [Envisionator](https://js13kgames.com/entries/envisionator) - A short puzzle game about escaping a building lockdown with the aid of your trusty robot friend.
 - [Planet Figadore has gone OFFLINE](https://js13kgames.com/entries/planet-figadore-has-gone-offline) - Fred lives on planet Figadore in the Hercules cluster, he likes watching cat videos from planet Earth via Parallax Shift, but the network link has gone OFFLINE!
 - [Enmeshed](https://js13kgames.com/entries/enmeshed) - A hacking puzzle / strategy game. Exploit vulnerabilities in nodes and connections to knock a dynamically-routed mesh network offline. 
 - [Raven](https://js13kgames.com/entries/raven) - The security cameras for a secret facility have been taken offline, and it is YOUR job to fix the problem.
 - [Lost Treasure](https://js13kgames.com/entries/lost-treasure) - 'Lost Treasure' is a short retro style puzzle-platformer game. There are 7 different levels (for now) to go through and collect treasure back to little Flo.
 
 ### Shooter
+- [The Chroma Incident](https://js13kgames.com/entries/the-chroma-incident) - The Achromats have taken the worlds color offline! Raid their colorless lair and vanquish them all, restoring the world to it's technicolor glory.
 - [UNDERRUN](https://js13kgames.com/entries/underrun) - A twin stick shooter in 256 shades of brown.
 
 ### Strategy
@@ -61,7 +67,10 @@
 - [Scroll!](https://github.com/ZeevKatz/scroll) - A Face to Face fighting game for mobile that you can play in your browser.
 
 ### Uncategorized
+- [SPACECRAFT](https://js13kgames.com/entries/spacecraft) - "Space, the final frontier" is your ultimate destination in SPACECRAFT.
 - [LOST ROBOT](https://js13kgames.com/entries/lost-robot) - If I'd written the mapping module, it wouldn't be offline!
+- [Exo](https://js13kgames.com/entries/exo) - A space based tower defence game! Build satellites and stations around planets orbiting a distant star. Survive waves of enemies.
+- [Submersible Warship 2063](https://js13kgames.com/entries/submersible-warship-2063) - Enemy submarines have invaded your perimeter. Stay off their radar and fight back!
 
 ---
 
