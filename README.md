@@ -247,6 +247,7 @@
 - [Jscrambler](https://jscrambler.com) - A JavaScript interpreter and parsing engine that creates an Abstract Syntax Tree representing your source code to make it extremely difficult to reverse engineer.
 
 ### Other Awesome Lists
+- [Magic Tools](https://github.com/ellisonleao/magictools) - A list of Game Development resources to make magic happen.
 - [awesome-phaser](https://github.com/Raiper34/awesome-phaser) - A curated list of awesome Phaser libraries, resources and shiny things.
 - [Awesome PlayCanvas](https://github.com/playcanvas/awesome-playcanvas) - A curated list of awesome PlayCanvas assets, resources, and more.
 - [jsGameWiki](https://github.com/DaRaFF/jsgamewiki) - A collection of good links for gaming with javascript.
