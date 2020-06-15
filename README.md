@@ -85,6 +85,7 @@
   - [melonJS](https://github.com/melonjs/melonjs) - A fresh & lightweight HTML5 game engine.
   - [PixiJS](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
   - [Phaser](https://github.com/photonstorm/phaser) - Desktop and Mobile HTML5 game framework. A fast, free and fun open source framework for Canvas and WebGL powered browser games.
+  - [Cocos2d-x](https://github.com/cocos2d/cocos2d-x) - A multi-platform framework for building 2d games, interactive books, demos and other graphical applications.
   - [Craters.js](https://github.com/swashvirus/craters.js) - A Compact Game Engine that helps you build fast, modern HTML5 Games.
   - [BLACKSMITH 2D](https://github.com/MassiveHeights/Black) - Black is a highly optimized 2D framework for web, mobile games, and playable ads.
 #### 3D
@@ -123,6 +124,7 @@
 
 ### Visual Resources
 - [OpenGameArt.org](https://opengameart.org) - Free, legal art for open source game projects (includes models, sprites, textures, sounds, music).
+- [NFG's Arcade Font Engine](https://nfggames.com/games/fontmaker) - Font for your games.
 - [The Spriters Resource](https://www.spriters-resource.com) - The #1 source for video game sprites on the internet!
 - [Sprite Database](https://spritedatabase.net) - Sprite rips from classic games.
 - [TinyPNG](https://tinypng.com) - Compress PNG images while preserving transparency.
