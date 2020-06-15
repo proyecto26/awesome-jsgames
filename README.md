@@ -197,6 +197,8 @@
 - [Emanuele Feronato](https://www.emanueleferonato.com) - Posts about Game design, HTML5, Phaser, JavaScript, Monetize, Box2D, Unity3D.
 
 ### Workshops
+- [VR Workshop](https://github.com/marpi/vr) - VR Workshop at Gray Area Festival.
+- [Immersive](https://github.com/marpi/immersive) - Immersive Three.js Workshop at Gray Area.
 - [Phaser CE Workshop using ES6](https://github.com/proyecto26/Phaser-Workshop) - Isometric worlds and Real Time games.
 
 ### Forums
