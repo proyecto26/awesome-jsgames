@@ -248,6 +248,7 @@
 
 ### Other Awesome Lists
 - [awesome-phaser](https://github.com/Raiper34/awesome-phaser) - A curated list of awesome Phaser libraries, resources and shiny things.
+- [Awesome PlayCanvas](https://github.com/playcanvas/awesome-playcanvas) - A curated list of awesome PlayCanvas assets, resources, and more.
 - [jsGameWiki](https://github.com/DaRaFF/jsgamewiki) - A collection of good links for gaming with javascript.
 - [Games on GitHub](https://github.com/leereilly/games) - A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 
