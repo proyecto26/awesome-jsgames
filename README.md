@@ -53,6 +53,9 @@
 - [Raven](https://js13kgames.com/entries/raven) - The security cameras for a secret facility have been taken offline, and it is YOUR job to fix the problem.
 - [Lost Treasure](https://js13kgames.com/entries/lost-treasure) - 'Lost Treasure' is a short retro style puzzle-platformer game. There are 7 different levels (for now) to go through and collect treasure back to little Flo.
 
+### Runner
+- [Offline: O.E.C.T](https://js13kgames.com/entries/offline-oect) - They said organic-electric technology was the way of the future.
+
 ### Shooter
 - [The Chroma Incident](https://js13kgames.com/entries/the-chroma-incident) - The Achromats have taken the worlds color offline! Raid their colorless lair and vanquish them all, restoring the world to it's technicolor glory.
 - [UNDERRUN](https://js13kgames.com/entries/underrun) - A twin stick shooter in 256 shades of brown.
@@ -71,6 +74,7 @@
 - [LOST ROBOT](https://js13kgames.com/entries/lost-robot) - If I'd written the mapping module, it wouldn't be offline!
 - [Exo](https://js13kgames.com/entries/exo) - A space based tower defence game! Build satellites and stations around planets orbiting a distant star. Survive waves of enemies.
 - [Submersible Warship 2063](https://js13kgames.com/entries/submersible-warship-2063) - Enemy submarines have invaded your perimeter. Stay off their radar and fight back!
+- [Enjoy The Sunshine (Get Offline!)](https://js13kgames.com/entries/enjoy-the-sunshine-get-offline) - Another beautiful day. But, look! Nobody appreciates it.
 
 ---
 
