@@ -26,7 +26,7 @@
 
 ### Adventure
 - [Triangle: Back To Home](https://js13kgames.com/entries/triangle-back-to-home) - You are lost in the cave. Try to get out and back to home. Sometimes it can be easy, sometimes not… but don’t give up and you will do it.
-- [Dwarfs: There and Back Again](https://js13kgames.com/entries/dwarfs-there-and-back-again) - A tale of high adventure, undertaken by a company of dwarfs, in search of dragon-guarded gold, true friendship, and varieties of ale (not necessarily in that order)..
+- [Dwarfs: There and Back Again](https://js13kgames.com/entries/dwarfs-there-and-back-again) - A tale of high adventure, undertaken by a company of dwarfs, in search of dragon-guarded gold, true friendship, and varieties of ale (not necessarily in that order).
 - [Bounce Back](https://js13kgames.com/entries/bounce-back) - Boomerang adventure game for JS13k!
 - [Wander](https://js13kgames.com/entries/wander) - Explore a desolate wilderness with your grappling hook.
 - [Offline Paradise](https://js13kgames.com/entries/offline-paradise) - The world, a paradise, has gone offline; everything has become grey and dangerous. Traverse, jump and dash over the obstacles to turn the world back into normal.
@@ -114,6 +114,7 @@
   - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
   
 ### Micro-libraries
+- [EasyStar.js](https://github.com/prettymuchbryce/easystarjs) - An asynchronous A* pathfinding API written in Javascript.
 - [Sound.js](https://github.com/kittykatattack/sound.js) - A micro-library to load, play and generate sound effects and music for games and interactive applications.
 - [Simplify.js](https://github.com/mourner/simplify-js) - A high-performance JavaScript polyline simplification library by Vladimir Agafonkin, extracted from Leaflet.
 - [ZzFX](https://github.com/KilledByAPixel/ZzFX) - A Tiny JavaScript Sound Effect Engine.
