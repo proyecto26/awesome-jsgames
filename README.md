@@ -42,7 +42,7 @@
 - [Pest Control: Weasels](https://js13kgames.com/entries/pest-control-weasels) - Lemmings were meant to be saved, weasels should instead be disposed of. (consider this as your revenge on small pesky critters!).
 - [Pizza Undelivery](https://js13kgames.com/entries/pizza-undelivery) - Here you bring pizzas back to the pizzeria, instead of the other way around.
 
-### Platformer
+### Platform
 - [nano-wirebot](https://js13kgames.com/entries/nano-wirebot) - A simple platformer where you play as a nanobot that needs to fix some wires.
 - [The Wandering Wraith](https://js13kgames.com/entries/the-wandering-wraith) - A lost wraith is wandering through the world seeking for peace. Will you guide him back to his grave so he can finally rest?
 - [ONOFF](https://js13kgames.com/entries/onoff) - Navigate through 25 brain-teasing levels in this fast-paced, hand-crafted platformer. You'll dodge spikes, jump over pits, and toggle between dimensions.
@@ -63,7 +63,7 @@
 - [Raven](https://js13kgames.com/entries/raven) - The security cameras for a secret facility have been taken offline, and it is YOUR job to fix the problem.
 - [Lost Treasure](https://js13kgames.com/entries/lost-treasure) - 'Lost Treasure' is a short retro style puzzle-platformer game. There are 7 different levels (for now) to go through and collect treasure back to little Flo.
 
-### Runner
+### Running
 - [Offline: O.E.C.T](https://js13kgames.com/entries/offline-oect) - They said organic-electric technology was the way of the future.
 
 ### Shooter
@@ -212,11 +212,13 @@
 - [Codewars](https://www.codewars.com) - Achieve mastery through challenge.
 
 ### Tutorials
+- [Making your first Phaser 3 game](https://phaser.io/tutorials/making-your-first-phaser-3-game).
 - [Game Mechanic Explorer](https://gamemechanicexplorer.com) - A collection of concrete examples for various game mechanics, algorithms, and effects.
 - [Procedurally Generated Dungeon](https://craiky.github.io/tutorial) - A Procedurally Generated Dungeon Tutorial in Java-Script.
 - [Gamedev Tuts+](https://gamedev.tutsplus.com) - The best place to find game development tutorials.
 - [Codrops](https://tympanus.net/codrops/category/tutorials) - Useful tutorials, insightful articles, creative inspiration and free resources for web designers and developers.
 - [Emanuele Feronato](https://www.emanueleferonato.com) - Posts about Game design, HTML5, Phaser, JavaScript, Monetize, Box2D, Unity3D.
+- [Phaser Tutorials](https://phaser.io/news/category/tutorial) - Phaser - News - Tutorial.
 
 ### Workshops
 - [Chrome Experiments](https://experiments.withgoogle.com) - A showcase of work by coders who are pushing the boundaries of web technology, creating beautiful, unique web experiences.
@@ -237,6 +239,8 @@
 
 ### Monetization
 - [GameDistribution](https://gamedistribution.com) - The biggest broker of high quality, cross-platform games. We connect the best game developers to the biggest publishers.
+- [Facebook In App Purchases](https://phaser.io/tutorials/facebook-instant-games-in-app-purchases) - Facebook Instant Games In App Purchases.
+- [Facebook Games Ads](https://phaser.io/tutorials/facebook-instant-games-ads) - Facebook Instant Games Ads.
 - [Awesome Web Monetization](https://github.com/thomasbnt/awesome-web-monetization) - Awesome stuffs about Web Monetization. Learn more, check modules and others tools.
 
 ### Testing
