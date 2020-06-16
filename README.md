@@ -108,6 +108,7 @@
   - [Cocos2d-x](https://github.com/cocos2d/cocos2d-x) - A multi-platform framework for building 2d games, interactive books, demos and other graphical applications.
   - [Craters.js](https://github.com/swashvirus/craters.js) - A Compact Game Engine that helps you build fast, modern HTML5 Games.
   - [BLACKSMITH 2D](https://github.com/MassiveHeights/Black) - Black is a highly optimized 2D framework for web, mobile games, and playable ads.
+  - [Impact](https://github.com/phoboslab/impact) - A JavaScript Game Engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers.
 #### 3D
   - [Babylonjs](https://github.com/BabylonJS/Babylon.js) - A powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
   - [PlayCanvas](https://github.com/playcanvas/engine) - Fast and lightweight WebGL game engine.
@@ -133,6 +134,9 @@
 
 ### Physics
 - [Matter.js](https://github.com/liabru/matter-js) - A JavaScript 2D rigid body physics engine for the web.
+- [Planck.js](https://github.com/shakiba/planck.js) - 2D JavaScript Physics Engine.
+- [box2d.ts](https://github.com/flyover/box2d.ts) - A TypeScript port of Box2D.
+- [p2.js](https://github.com/schteppe/p2.js) - 2D rigid body physics engine written in JavaScript.
 
 ### Virtual Reality
 - [A-Frame](https://github.com/aframevr/aframe) - A web framework for building virtual reality experiences.
