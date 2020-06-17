@@ -190,6 +190,7 @@
 ### Templates
 - [js13kserver](https://github.com/js13kGames/js13kserver) - js13kGames Server category files and rules.
 - [JS13K A-Frame Boilerplate](https://github.com/mguinea/js13k-aframe-boilerplate) - An A-Frame boilerplate for the js13k competition.
+- [Ourcade Templates](https://ourcade.co/templates) - Various open-source game templates and starter projects to help speed up learning and development.
 
 ### Guides
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html).
@@ -205,6 +206,8 @@
 - [Interphase #1](https://gumroad.com/l/ySfMa) - A 400 page bookazine complete with a coverdisk filled with source code, graphics and more for Phaser CE.
 - [A Guide to the Phaser CE Tween Manager](https://leanpub.com/phasertweenmanager) - Learn how to use the Phaser Tween Manager to its full potential and spice up your games.
 - [A Guide to the Phaser CE Scale Manager](https://leanpub.com/phaserscalemanager) - Phaser has a powerful built-in Scale Manager and this guide teaches you how to unlock its features.
+- [Infinite Jumper in Phaser 3 with Modern JavaScript](https://ourcade.co/books/infinite-jumper-phaser3) - A free book to help beginners learn Phaser 3 with modern JavaScript without complicated web development tooling.
+- [Infinite Runner in Phaser 3 with TypeScript](https://ourcade.co/books/infinite-runner-phaser3) - A free book to help you get started using TypeScript to make more complex Phaser 3 games.
 
 ### Competitions
 - [Js13kGames](https://js13kgames.com) - Create HTML5 games that will fit in a zip package of only 13 kilobytes.
@@ -224,6 +227,7 @@
 - [Codrops](https://tympanus.net/codrops/category/tutorials) - Useful tutorials, insightful articles, creative inspiration and free resources for web designers and developers.
 - [Emanuele Feronato](https://www.emanueleferonato.com) - Posts about Game design, HTML5, Phaser, JavaScript, Monetize, Box2D, Unity3D.
 - [Phaser Tutorials](https://phaser.io/news/category/tutorial) - Phaser - News - Tutorial.
+- [Ourcade Blog](http://blog.ourcade.co) - Playful game development tutorials
 
 ### Workshops
 - [Chrome Experiments](https://experiments.withgoogle.com) - A showcase of work by coders who are pushing the boundaries of web technology, creating beautiful, unique web experiences.
