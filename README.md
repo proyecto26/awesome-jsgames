@@ -192,6 +192,7 @@
 - [js13kserver](https://github.com/js13kGames/js13kserver) - js13kGames Server category files and rules.
 - [JS13K A-Frame Boilerplate](https://github.com/mguinea/js13k-aframe-boilerplate) - An A-Frame boilerplate for the js13k competition.
 - [Ourcade Templates](https://ourcade.co/templates) - Various open-source game templates and starter projects to help speed up learning and development.
+- [Phaser 3 TypeScript Project Template](https://github.com/photonstorm/phaser3-typescript-project-template) - A quick-start project template that uses Phaser 3, TypeScript and Rollup for bundling.
 
 ### Guides
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html).
