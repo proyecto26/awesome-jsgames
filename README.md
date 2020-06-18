@@ -73,6 +73,7 @@
 - [Backcountry](https://js13kgames.com/entries/backcountry) - Kill or be killed in this hack-and-shoot set in the Wild West! Use the mouse or tap the screen to control your avatar, and earn as much gold as you can from the sheriff's bounties.
 
 ### Strategy
+- [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) - Match based eSport where players battle themselves by materializing and controling a squad of carefully selected creatures, each having unique stats and abilities. Master your beasts!
 - [Elematter](https://js13kgames.com/entries/elematter) - Elematter is a tower defense game based on the four elements: Earth, Water, Air and Fire.
 
 ### Virtual Reality
