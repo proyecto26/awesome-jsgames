@@ -222,6 +222,7 @@
 
 ### Tutorials
 - [Making your first Phaser 3 game](https://phaser.io/tutorials/making-your-first-phaser-3-game).
+- [Modular Game Worlds in Phaser 3](https://medium.com/@michaelwesthadley/modular-game-worlds-in-phaser-3-tilemaps-1-958fc7e6bbd6) - Creating modular worlds with tilemaps in the Phaser 3 game engine.
 - [Game Mechanic Explorer](https://gamemechanicexplorer.com) - A collection of concrete examples for various game mechanics, algorithms, and effects.
 - [Procedurally Generated Dungeon](https://craiky.github.io/tutorial) - A Procedurally Generated Dungeon Tutorial in Java-Script.
 - [Gamedev Tuts+](https://gamedev.tutsplus.com) - The best place to find game development tutorials.
