@@ -42,6 +42,9 @@
 - [Pest Control: Weasels](https://js13kgames.com/entries/pest-control-weasels) - Lemmings were meant to be saved, weasels should instead be disposed of. (consider this as your revenge on small pesky critters!).
 - [Pizza Undelivery](https://js13kgames.com/entries/pizza-undelivery) - Here you bring pizzas back to the pizzeria, instead of the other way around.
 
+### Educational
+- [Pixel Art Academy](https://github.com/Retronator/Pixel-Art-Academy) - An adventure game for learning to draw.
+
 ### Platform
 - [nano-wirebot](https://js13kgames.com/entries/nano-wirebot) - A simple platformer where you play as a nanobot that needs to fix some wires.
 - [The Wandering Wraith](https://js13kgames.com/entries/the-wandering-wraith) - A lost wraith is wandering through the world seeking for peace. Will you guide him back to his grave so he can finally rest?
