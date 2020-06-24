@@ -226,7 +226,8 @@
 - [Codewars](https://www.codewars.com) - Achieve mastery through challenge.
 
 ### Tutorials
-- [Making your first Phaser 3 game](https://phaser.io/tutorials/making-your-first-phaser-3-game).
+- [JavaScript30](https://javascript30.com) - Build 30 things with vanilla JS in 30 days with 30 tutorials.
+- [Making your first Phaser 3 game](https://phaser.io/tutorials/making-your-first-phaser-3-game) - Learn how to create a small game involving a player running and jumping around platforms, collecting stars and avoiding baddies.
 - [Modular Game Worlds in Phaser 3](https://medium.com/@michaelwesthadley/modular-game-worlds-in-phaser-3-tilemaps-1-958fc7e6bbd6) - Creating modular worlds with tilemaps in the Phaser 3 game engine.
 - [Game Mechanic Explorer](https://gamemechanicexplorer.com) - A collection of concrete examples for various game mechanics, algorithms, and effects.
 - [Procedurally Generated Dungeon](https://craiky.github.io/tutorial) - A Procedurally Generated Dungeon Tutorial in Java-Script.
