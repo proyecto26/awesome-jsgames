@@ -152,6 +152,7 @@
 - [Sonant-X](https://github.com/nicolas-van/sonant-x) - A very small JavaScript synthesizer library, suitable for small JavaScript demos or video games.
 
 ### Visual Resources
+- [Poly](https://poly.google.com) - A website created by Google for users to browse, distribute, and download 3D objects.
 - [OpenGameArt.org](https://opengameart.org) - Free, legal art for open source game projects (includes models, sprites, textures, sounds, music).
 - [NFG's Arcade Font Engine](https://nfggames.com/games/fontmaker) - Font for your games.
 - [The Spriters Resource](https://www.spriters-resource.com) - The #1 source for video game sprites on the internet!
