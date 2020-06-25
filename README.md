@@ -164,6 +164,9 @@
 ### Real-Time
 - [Snapshot Interpolation](https://github.com/geckosio/snapshot-interpolation) - A Snapshot Interpolation library for Real-Time Multiplayer Games.
 
+### Utilities
+- [Tiled Parser for Phaser 3](https://ourcade.co/tools/phaser3-tiled-parser) - Generate code for loading tilemaps created with Tiled 🤓.
+
 ### Editors
 - [Tiled Map Editor](https://github.com/bjorn/tiled) - A flexible level editor.
 - [Phaser Editor 2D](https://phasereditor2d.com) - A web-based IDEfor HTML5 game development.
