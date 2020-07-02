@@ -118,6 +118,10 @@
   - [PlayCanvas](https://github.com/playcanvas/engine) - Fast and lightweight WebGL game engine.
   - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
   
+### Math
+- [Math for games](https://gist.github.com/xem/99930986c5333125a13b0ea50600391f) - Maths & trigonometry cheat sheet for 2D & 3D games.
+- [Math is Fun](https://www.mathsisfun.com) - Math explained in easy language, plus puzzles, games, worksheets and an illustrated dictionary.
+  
 ### Micro-libraries
 - [EasyStar.js](https://github.com/prettymuchbryce/easystarjs) - An asynchronous A* pathfinding API written in Javascript.
 - [Sound.js](https://github.com/kittykatattack/sound.js) - A micro-library to load, play and generate sound effects and music for games and interactive applications.
@@ -204,7 +208,6 @@
 ### Guides
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html).
 - [WebGL guide](https://xem.github.io/articles/webgl-guide) - A complete, summarized WebGL tutorial, with tiny interactive demos in each chapter.
-- [Math for games](https://gist.github.com/xem/99930986c5333125a13b0ea50600391f) - Maths & trigonometry cheat sheet for 2D & 3D games.
 - [browserdiet.com](https://browserdiet.com) - The definitive front-end performance guide.
 - [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden) - A growing collection of documentation about the most quirky parts of the JavaScript programming language.
 
