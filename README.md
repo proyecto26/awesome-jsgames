@@ -127,6 +127,7 @@
 - [Sound.js](https://github.com/kittykatattack/sound.js) - A micro-library to load, play and generate sound effects and music for games and interactive applications.
 - [Simplify.js](https://github.com/mourner/simplify-js) - A high-performance JavaScript polyline simplification library by Vladimir Agafonkin, extracted from Leaflet.
 - [ZzFX](https://github.com/KilledByAPixel/ZzFX) - A Tiny JavaScript Sound Effect Engine.
+- [ZzFXM](https://keithclark.github.io/ZzFXM) - A tiny JavaScipt music generator.
 - [SAT.js](https://github.com/jriecken/sat-js) - A simple JavaScript library for performing 2D collision detection.
 - [jsfxr](https://www.npmjs.com/package/jsfxr) - [as3fxr](https://code.google.com/p/as3sfxr) synth port to JavaScript created for js13kGames.
 - [Kontra](https://straker.github.io/kontra) - A lightweight JavaScript gaming micro-library created specifically for the Js13kGames game jam.
