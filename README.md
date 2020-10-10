@@ -119,6 +119,7 @@
   - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
   
 ### Math
+- [CindyJS](https://github.com/CindyJS/CindyJS) - A JavaScript framework for interactive (mathematical) content.
 - [big.js](https://github.com/MikeMcl/big.js) - A small, fast JavaScript library for arbitrary-precision decimal arithmetic.
 - [Math for games](https://gist.github.com/xem/99930986c5333125a13b0ea50600391f) - Maths & trigonometry cheat sheet for 2D & 3D games.
 - [Math is Fun](https://www.mathsisfun.com) - Math explained in easy language, plus puzzles, games, worksheets and an illustrated dictionary.
