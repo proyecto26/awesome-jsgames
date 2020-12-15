@@ -95,6 +95,7 @@
 - [Submersible Warship 2063](https://js13kgames.com/entries/submersible-warship-2063) - Enemy submarines have invaded your perimeter. Stay off their radar and fight back!
 - [Enjoy The Sunshine (Get Offline!)](https://js13kgames.com/entries/enjoy-the-sunshine-get-offline) - Another beautiful day. But, look! Nobody appreciates it.
 - [oh, flip!](https://js13kgames.com/entries/oh-flip) - You're a majestic square with one leg who loves to flip!
+- [UNO](https://github.com/guilhermebkel/uno-game) - The famous UNO card game with online multiplayer support!
 
 ---
 
