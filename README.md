@@ -20,6 +20,7 @@
 </p>
 
 ### Winners
+- [js13kGames 2020](https://github.blog/2020-10-11-top-ten-games-from-the-js13k-2020-competition) - Top 10 games from the JS13K 2020 competition 🕹
 - [js13kGames 2019](https://github.blog/2019-10-08-js13k-2019-highlights) - Highlights from the js13kGames 2019 competition.
 - [js13kGames 2018](https://github.blog/2018-10-05-js13kgames-highlights-2018) - 13 Games in ≤ 13kB of JavaScript.
 - [js13kGames 2017](https://github.blog/2017-07-31-build-a-game-in-13kb-or-less-with-js13kgames) - Build a game in 13kB or less with js13kGames.
