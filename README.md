@@ -42,6 +42,8 @@
 - [Behind Asteroids, The Dark Side](https://js13kgames.com/entries/behind-asteroids-the-dark-side) - A game about throwing asteroids to people playing "Asteroids" on an arcade machine.
 - [Pest Control: Weasels](https://js13kgames.com/entries/pest-control-weasels) - Lemmings were meant to be saved, weasels should instead be disposed of. (consider this as your revenge on small pesky critters!).
 - [Pizza Undelivery](https://js13kgames.com/entries/pizza-undelivery) - Here you bring pizzas back to the pizzeria, instead of the other way around.
+- [Pacman](https://github.com/mumuy/pacman) & [Pacman-Game](https://github.com/RishabhDevbanshi/Pacman-Game)
+- [jump-n-bump](https://github.com/ennorehling/jump-n-bump) - HTML5 port of the open source DOS classic by Brainchild Design: local multiplayer platfomer game.
 
 ### Educational
 - [Pixel Art Academy](https://github.com/Retronator/Pixel-Art-Academy) - An adventure game for learning to draw.
@@ -66,6 +68,9 @@
 - [Enmeshed](https://js13kgames.com/entries/enmeshed) - A hacking puzzle / strategy game. Exploit vulnerabilities in nodes and connections to knock a dynamically-routed mesh network offline. 
 - [Raven](https://js13kgames.com/entries/raven) - The security cameras for a secret facility have been taken offline, and it is YOUR job to fix the problem.
 - [Lost Treasure](https://js13kgames.com/entries/lost-treasure) - 'Lost Treasure' is a short retro style puzzle-platformer game. There are 7 different levels (for now) to go through and collect treasure back to little Flo.
+- [2048](https://github.com/gd4Ark/2048)
+- [Blitz Tactics](https://github.com/linrock/blitz-tactics) - fast-paced chess puzzles
+- [Untrusted —or— the Continuing Adventures of Dr. Eval](https://github.com/AlexNisnevich/untrusted) - Meta-JavaScript Adventure Game wherein you must edit and re-execute the very JavaScript running the game in your browser to save Dr. Eval from this dark and confusing reality
 
 ### Running
 - [Offline: O.E.C.T](https://js13kgames.com/entries/offline-oect) - They said organic-electric technology was the way of the future.
@@ -97,6 +102,7 @@
 - [Enjoy The Sunshine (Get Offline!)](https://js13kgames.com/entries/enjoy-the-sunshine-get-offline) - Another beautiful day. But, look! Nobody appreciates it.
 - [oh, flip!](https://js13kgames.com/entries/oh-flip) - You're a majestic square with one leg who loves to flip!
 - [UNO](https://github.com/guilhermebkel/uno-game) - The famous UNO card game with online multiplayer support!
+- [MemoryGame.js](https://github.com/Lucas-C/MemoryGame.js) - A customizable memory game
 
 ---
 
