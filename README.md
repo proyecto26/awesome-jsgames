@@ -302,6 +302,12 @@ This awesome list exists thanks to all the people who contribute. [[Contribute](
 I believe in Unicorns 🦄
 Support [me](https://www.paypal.me/jdnichollsc/2), if you do too.
 
+Donate **Ethereum**, **ADA**, **BNB**, **SHIBA**, **USDT**, **DOGE**:
+
+![Wallet address](https://user-images.githubusercontent.com/2154886/123501719-84bf1900-d60c-11eb-882c-98a499cea323.png)
+
+Please let us know your contributions! 🙏
+
 ## Happy coding 💯
 Made with ❤️
 
