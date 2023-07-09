@@ -104,6 +104,7 @@
 - [oh, flip!](https://js13kgames.com/entries/oh-flip) - You're a majestic square with one leg who loves to flip!
 - [UNO](https://github.com/guilhermebkel/uno-game) - The famous UNO card game with online multiplayer support!
 - [MemoryGame.js](https://github.com/Lucas-C/MemoryGame.js) - A customizable memory game
+- [IZOWAVE](https://github.com/neki-dev/izowave) - Isometric game. Build and defence in open world
 
 ---
 
