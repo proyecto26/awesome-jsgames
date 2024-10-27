@@ -301,21 +301,16 @@ This awesome list exists thanks to all the people who contribute. [[Contribute](
 
 ## Supporting 🍻
 I believe in Unicorns 🦄
-Support [me](https://www.paypal.me/jdnichollsc/2), if you do too.
+Support [me](http://www.paypal.me/jdnichollsc/2), if you do too.
 
-Donate **Ethereum**, **ADA**, **BNB**, **SHIBA**, **USDT**, **DOGE**:
+Donate **Ethereum**, **ADA**, **BNB**, **SHIBA**, **USDT/USDC**, **DOGE**, etc:
 
-![Wallet address](https://user-images.githubusercontent.com/2154886/123501719-84bf1900-d60c-11eb-882c-98a499cea323.png)
-
-> Wallet address: 0x3F9fA8021B43ACe578C2352861Cf335449F33427
+> Wallet address: jdnichollsc.eth
 
 Please let us know your contributions! 🙏
 
 ## Happy coding 💯
 Made with ❤️
 
-## License ⚖️
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
 <img width="150px" src="https://avatars0.githubusercontent.com/u/28855608?s=200&v=4" align="right">
+
