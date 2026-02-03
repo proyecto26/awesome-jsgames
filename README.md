@@ -104,6 +104,7 @@
 - [oh, flip!](https://js13kgames.com/entries/oh-flip) - You're a majestic square with one leg who loves to flip!
 - [UNO](https://github.com/guilhermebkel/uno-game) - The famous UNO card game with online multiplayer support!
 - [MemoryGame.js](https://github.com/Lucas-C/MemoryGame.js) - A customizable memory game
+- [Developer portfolio](https://github.com/JSLegendDev/2d-portfolio-kaboom) - Developer portfolio as an interactive 2D game
 
 ---
 
@@ -122,6 +123,7 @@
   - [Craters.js](https://github.com/swashvirus/craters.js) - A Compact Game Engine that helps you build fast, modern HTML5 Games.
   - [BLACKSMITH 2D](https://github.com/MassiveHeights/Black) - Black is a highly optimized 2D framework for web, mobile games, and playable ads.
   - [Impact](https://github.com/phoboslab/impact) - A JavaScript Game Engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers.
+  - [KAPLAY](https://github.com/kaplayjs/kaplay) - Fork of legacy [Kaboom](https://github.com/replit/kaboom), that simplifies and accelerates game development by providing an intuitive API and by focusing on creativity rather than complexity.
 #### 3D
   - [Babylonjs](https://github.com/BabylonJS/Babylon.js) - A powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
   - [PlayCanvas](https://github.com/playcanvas/engine) - Fast and lightweight WebGL game engine.
