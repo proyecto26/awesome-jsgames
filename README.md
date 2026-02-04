@@ -190,6 +190,7 @@
 - [Phaser Editor 2D](https://phasereditor2d.com) - A web-based IDEfor HTML5 game development.
 - [Aseprite](https://www.aseprite.org) - Animated sprite editor & pixel art tool.
 - [Piskel](https://github.com/piskelapp/piskel) - A free online editor for animated sprites & pixel art.
+- [Sleditor](https://sleditor.com/) - A web-based editor for creating and testing high-performance graphics and audio scripts in a web browser.
 
 ### Generators
 - [Stitches](https://draeton.github.io/stitches) - An HTML5 sprite sheet generator.
