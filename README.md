@@ -72,7 +72,8 @@
 - [2048](https://github.com/gd4Ark/2048)
 - [Blitz Tactics](https://github.com/linrock/blitz-tactics) - fast-paced chess puzzles
 - [Untrusted —or— the Continuing Adventures of Dr. Eval](https://github.com/AlexNisnevich/untrusted) - Meta-JavaScript Adventure Game wherein you must edit and re-execute the very JavaScript running the game in your browser to save Dr. Eval from this dark and confusing reality
-
+- [Block Blast Training Platform](https://github.com/dffge552/block-blast) - 8×8 block puzzle with guaranteed solvable piece generation using 4 algorithms and geometric OCR for screenshot recognition.
+  
 ### Running
 - [Offline: O.E.C.T](https://js13kgames.com/entries/offline-oect) - They said organic-electric technology was the way of the future.
 
