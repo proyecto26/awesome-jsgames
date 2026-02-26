@@ -27,7 +27,7 @@
 - [js13kGames 2017](https://github.blog/2017-07-31-build-a-game-in-13kb-or-less-with-js13kgames) - Build a game in 13kB or less with js13kGames.
 
 ### Adventure
-- [Triangle: Back To Home](https://js13kgames.com/entries/triangle-back-to-home) - You are lost in the cave. Try to get out and back to home. Sometimes it can be easy, sometimes not… but don’t give up and you will do it.
+- [Triangle: Back To Home](https://js13kgames.com/entries/triangle-back-to-home) - You are lost in the cave. Try to get out and back to home. Sometimes it can be easy, sometimes not… but don't give up and you will do it.
 - [Dwarfs: There and Back Again](https://js13kgames.com/entries/dwarfs-there-and-back-again) - A tale of high adventure, undertaken by a company of dwarfs, in search of dragon-guarded gold, true friendship, and varieties of ale (not necessarily in that order).
 - [Bounce Back](https://js13kgames.com/entries/bounce-back) - Boomerang adventure game for JS13k!
 - [Wander](https://js13kgames.com/entries/wander) - Explore a desolate wilderness with your grappling hook.
@@ -60,7 +60,7 @@
 
 ### Puzzle
 - [Play Back](https://js13kgames.com/entries/play-back) - Oh no, you've been kicked out of the castle! Solve puzzles and make your way back to your rightful home.
-- [Back Attacker](https://js13kgames.com/entries/back-attacker) - Invaders have entered in the Ninja’s Forest. Be careful!, They have weapons. Attack behind the back.
+- [Back Attacker](https://js13kgames.com/entries/back-attacker) - Invaders have entered in the Ninja's Forest. Be careful!, They have weapons. Attack behind the back.
 - [xx142-b2.exe](https://js13kgames.com/entries/xx142-b2exe) - This is the year 2413, humanity is enslaved by an alien race for more than two centuries already.
 - [1024 Moves](https://js13kgames.com/entries/1024-moves) - This puzzle can be solved in 1024 movements.
 - [Re-Wire](https://js13kgames.com/entries/re-wire) - Bring the system back online by rewiring the power nodes.
@@ -72,6 +72,9 @@
 - [2048](https://github.com/gd4Ark/2048)
 - [Blitz Tactics](https://github.com/linrock/blitz-tactics) - fast-paced chess puzzles
 - [Untrusted —or— the Continuing Adventures of Dr. Eval](https://github.com/AlexNisnevich/untrusted) - Meta-JavaScript Adventure Game wherein you must edit and re-execute the very JavaScript running the game in your browser to save Dr. Eval from this dark and confusing reality
+- [Aura Points Calculator](https://noahaust2.github.io/strategist-dashboard/tools/aura/) - An interactive quiz game where you discover your aura type through 12 real-life scenario questions. Generates a downloadable PNG share card with your results. Pure HTML/CSS/JS.
+- [How Chronically Online Are You?](https://noahaust2.github.io/strategist-dashboard/tools/online/) - A 15-question quiz game that measures your internet habits across multiple dimensions, displaying results as an interactive radar chart with a shareable PNG scorecard.
+- [Brain Rot Diagnostic](https://noahaust2.github.io/strategist-dashboard/tools/brain-rot/) - An 18-question clinical-style quiz game assessing internet brain rot across 6 dimensions, with animated progress tracking and a downloadable diagnostic report.
 
 ### Running
 - [Offline: O.E.C.T](https://js13kgames.com/entries/offline-oect) - They said organic-electric technology was the way of the future.
@@ -316,4 +319,3 @@ Please let us know your contributions! 🙏
 Made with ❤️
 
 <img width="150px" src="https://avatars0.githubusercontent.com/u/28855608?s=200&v=4" align="right">
-
