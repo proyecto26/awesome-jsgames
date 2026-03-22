@@ -312,7 +312,7 @@ This project is free and open source. Sponsors help keep it maintained and growi
 
 [**Become a Sponsor**](https://github.com/sponsors/proyecto26) | [Sponsorship Program](https://proyecto26.com/sponsors/)
 
-## 🤝 Contribution
+## Contribution 🤝
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change.
@@ -322,7 +322,7 @@ Contributions are what make the open-source community such an amazing place to l
 You can learn more about how you can contribute to this project in the [contribution guide](https://github.com/proyecto26/.github/blob/master/CONTRIBUTING.md).
 
 ## Happy coding 💯
-Made with ❤️ by [Proyecto 26](https://proyecto26.com)
+Made with ❤️ by [Proyecto 26](https://proyecto26.com) - Changing the world with small contributions.
 
 One hand can accomplish great things, but many can take you into space and beyond! 🌌
 
