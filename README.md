@@ -45,6 +45,7 @@
 - [Pizza Undelivery](https://js13kgames.com/entries/pizza-undelivery) - Here you bring pizzas back to the pizzeria, instead of the other way around.
 - [Pacman](https://github.com/mumuy/pacman) & [Pacman-Game](https://github.com/RishabhDevbanshi/Pacman-Game)
 - [jump-n-bump](https://github.com/ennorehling/jump-n-bump) - HTML5 port of the open source DOS classic by Brainchild Design: local multiplayer platfomer game.
+- [SKALP](https://github.com/amudotcom-byte/skalp) - 60-second trading-floor reflex game. Go long or short, ride the chart, close before it reverses — and don't get liquidated. [Play it here](https://skalp.fun/).
 
 ### Educational
 - [Pixel Art Academy](https://github.com/Retronator/Pixel-Art-Academy) - An adventure game for learning to draw.
