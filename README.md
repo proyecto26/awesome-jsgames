@@ -45,6 +45,7 @@
 - [Pizza Undelivery](https://js13kgames.com/entries/pizza-undelivery) - Here you bring pizzas back to the pizzeria, instead of the other way around.
 - [Pacman](https://github.com/mumuy/pacman) & [Pacman-Game](https://github.com/RishabhDevbanshi/Pacman-Game)
 - [jump-n-bump](https://github.com/ennorehling/jump-n-bump) - HTML5 port of the open source DOS classic by Brainchild Design: local multiplayer platfomer game.
+- [Hooping](https://hooping.io) - Basketball game with deterministic physics: six levels, one shot per level, miss and you start over.
 
 ### Educational
 - [Pixel Art Academy](https://github.com/Retronator/Pixel-Art-Academy) - An adventure game for learning to draw.
