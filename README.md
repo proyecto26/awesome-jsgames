@@ -59,6 +59,7 @@
 - [Way Out](https://js13kgames.com/entries/way-out) - The door is locked. You'll have to explore a dangerous dungeon full of traps and monsters and find 4 lost gems to open the door and get your WAY OUT!
 
 ### Puzzle
+- [Daily Word Hunt](https://github.com/s87343472/daily-word-hunt) - Free daily word search in the browser. Themed series + printable packs. [Live](https://words.sagasu.art/)
 - [Play Back](https://js13kgames.com/entries/play-back) - Oh no, you've been kicked out of the castle! Solve puzzles and make your way back to your rightful home.
 - [Back Attacker](https://js13kgames.com/entries/back-attacker) - Invaders have entered in the Ninja’s Forest. Be careful!, They have weapons. Attack behind the back.
 - [xx142-b2.exe](https://js13kgames.com/entries/xx142-b2exe) - This is the year 2413, humanity is enslaved by an alien race for more than two centuries already.
