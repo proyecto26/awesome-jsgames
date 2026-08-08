@@ -103,6 +103,7 @@
 - [Enjoy The Sunshine (Get Offline!)](https://js13kgames.com/entries/enjoy-the-sunshine-get-offline) - Another beautiful day. But, look! Nobody appreciates it.
 - [oh, flip!](https://js13kgames.com/entries/oh-flip) - You're a majestic square with one leg who loves to flip!
 - [UNO](https://github.com/guilhermebkel/uno-game) - The famous UNO card game with online multiplayer support!
+- [The Fight Club](https://fightclub.dog/) - A live debate game: pick a side on any topic, argue your case against a real opponent, and let the crowd (plus an AI judge) decide the winner.
 - [MemoryGame.js](https://github.com/Lucas-C/MemoryGame.js) - A customizable memory game
 - [Developer portfolio](https://github.com/JSLegendDev/2d-portfolio-kaboom) - Developer portfolio as an interactive 2D game
 
