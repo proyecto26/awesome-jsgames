@@ -103,6 +103,7 @@
 - [Enjoy The Sunshine (Get Offline!)](https://js13kgames.com/entries/enjoy-the-sunshine-get-offline) - Another beautiful day. But, look! Nobody appreciates it.
 - [oh, flip!](https://js13kgames.com/entries/oh-flip) - You're a majestic square with one leg who loves to flip!
 - [UNO](https://github.com/guilhermebkel/uno-game) - The famous UNO card game with online multiplayer support!
+- [Parlour](https://github.com/braedonsaunders/parlour) - Deterministic TypeScript card-game engine with a browser table for Blitz and Wild, P2P rooms, no backend.
 - [MemoryGame.js](https://github.com/Lucas-C/MemoryGame.js) - A customizable memory game
 - [Developer portfolio](https://github.com/JSLegendDev/2d-portfolio-kaboom) - Developer portfolio as an interactive 2D game
 
@@ -327,4 +328,3 @@ Made with ❤️ by [Proyecto 26](https://proyecto26.com) - Changing the world w
 One hand can accomplish great things, but many can take you into space and beyond! 🌌
 
 Together we do more, together we are more ❤️ <img width="150px" src="https://avatars0.githubusercontent.com/u/28855608?s=200&v=4" align="right">
-
