@@ -103,6 +103,7 @@
 - [Enjoy The Sunshine (Get Offline!)](https://js13kgames.com/entries/enjoy-the-sunshine-get-offline) - Another beautiful day. But, look! Nobody appreciates it.
 - [oh, flip!](https://js13kgames.com/entries/oh-flip) - You're a majestic square with one leg who loves to flip!
 - [UNO](https://github.com/guilhermebkel/uno-game) - The famous UNO card game with online multiplayer support!
+- [Parlour](https://github.com/braedonsaunders/parlour) - Deterministic TypeScript card-game engine and cozy browser table for Blitz, Wild and more, with P2P rooms.
 - [MemoryGame.js](https://github.com/Lucas-C/MemoryGame.js) - A customizable memory game
 - [Developer portfolio](https://github.com/JSLegendDev/2d-portfolio-kaboom) - Developer portfolio as an interactive 2D game
 
@@ -208,7 +209,7 @@
 - [Electron](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
 - [NW.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 - [Cordova](https://github.com/apache/cordova) - Mobile apps with HTML, CSS & JS. Target multiple platforms with one code base.
-- [Capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the web ⚡️
+- [Capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the web ⚡
 
 ### Compilers
 - [Babel](https://github.com/babel/babel) - The compiler for writing next generation JavaScript.
@@ -327,4 +328,3 @@ Made with ❤️ by [Proyecto 26](https://proyecto26.com) - Changing the world w
 One hand can accomplish great things, but many can take you into space and beyond! 🌌
 
 Together we do more, together we are more ❤️ <img width="150px" src="https://avatars0.githubusercontent.com/u/28855608?s=200&v=4" align="right">
-
