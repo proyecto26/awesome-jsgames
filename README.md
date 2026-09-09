@@ -48,6 +48,7 @@
 
 ### Educational
 - [Pixel Art Academy](https://github.com/Retronator/Pixel-Art-Academy) - An adventure game for learning to draw.
+- [Oppocity](https://github.com/bionyxau/oppocity) - Guess the antipode of five cities in 75 seconds ([play](https://play.oppocity.app/)).
 
 ### Platform
 - [nano-wirebot](https://js13kgames.com/entries/nano-wirebot) - A simple platformer where you play as a nanobot that needs to fix some wires.
