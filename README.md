@@ -50,6 +50,7 @@
 - [Pixel Art Academy](https://github.com/Retronator/Pixel-Art-Academy) - An adventure game for learning to draw.
 
 ### Platform
+- [Bash Fighter](https://github.com/Bash-Entertainment/bash-fighter) - Open source (AGPL-3.0) 20-player free-for-all platform fighter that runs in the browser, no download or account required.
 - [nano-wirebot](https://js13kgames.com/entries/nano-wirebot) - A simple platformer where you play as a nanobot that needs to fix some wires.
 - [The Wandering Wraith](https://js13kgames.com/entries/the-wandering-wraith) - A lost wraith is wandering through the world seeking for peace. Will you guide him back to his grave so he can finally rest?
 - [ONOFF](https://js13kgames.com/entries/onoff) - Navigate through 25 brain-teasing levels in this fast-paced, hand-crafted platformer. You'll dodge spikes, jump over pits, and toggle between dimensions.
