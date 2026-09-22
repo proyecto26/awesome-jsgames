@@ -1,5 +1,6 @@
 <p align="center">
   <a href="https://github.com/proyecto26/awesome-jsgames/graphs/commit-activity">
+  
     <img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg" alt="Maintenance" />
   </a>
   <a href="https://www.facebook.com/groups/javascriptgames">
@@ -27,6 +28,7 @@
 - [js13kGames 2017](https://github.blog/2017-07-31-build-a-game-in-13kb-or-less-with-js13kgames) - Build a game in 13kB or less with js13kGames.
 
 ### Adventure
+
 - [Triangle: Back To Home](https://js13kgames.com/entries/triangle-back-to-home) - You are lost in the cave. Try to get out and back to home. Sometimes it can be easy, sometimes not… but don’t give up and you will do it.
 - [Dwarfs: There and Back Again](https://js13kgames.com/entries/dwarfs-there-and-back-again) - A tale of high adventure, undertaken by a company of dwarfs, in search of dragon-guarded gold, true friendship, and varieties of ale (not necessarily in that order).
 - [Bounce Back](https://js13kgames.com/entries/bounce-back) - Boomerang adventure game for JS13k!
@@ -274,6 +276,8 @@
 - [MarketJS](https://www.marketjs.com) - A B2B Platform for licensing HTML5 games. Buy HTML5 games, customize and deploy instantly to your server.
 - [itch.io](https://itch.io) - Distribution and game jam hosting platform for HTML5 games.
 - [CrazyGames](https://www.crazygames.com/t/html5) - New distribution platform for HTML5 games.
+- [CrazyGames](https://crazygames.tube/) - New distribution platform for HTML5 games.
+-   <a href="https://github.com/proyecto26/awesome-jsgames/graphs/commit-activity">z
 - [Y8 Games](https://www.y8.com) - At Y8 Games, there are over 70,000 games and videos available to play online. We are leading in the latest Unity3D car and dress up games.
 
 ### Monetization
