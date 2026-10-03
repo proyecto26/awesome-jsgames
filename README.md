@@ -69,6 +69,8 @@
 - [Enmeshed](https://js13kgames.com/entries/enmeshed) - A hacking puzzle / strategy game. Exploit vulnerabilities in nodes and connections to knock a dynamically-routed mesh network offline. 
 - [Raven](https://js13kgames.com/entries/raven) - The security cameras for a secret facility have been taken offline, and it is YOUR job to fix the problem.
 - [Lost Treasure](https://js13kgames.com/entries/lost-treasure) - 'Lost Treasure' is a short retro style puzzle-platformer game. There are 7 different levels (for now) to go through and collect treasure back to little Flo.
+- [The Last Human Job](https://lasthumanjob.pages.dev/) - Approve or reject what an AI wrote, all day. Free browser game, no signup. [Source](https://github.com/tinyagentarcade/the-last-human-job).
+
 - [2048](https://github.com/gd4Ark/2048)
 - [Blitz Tactics](https://github.com/linrock/blitz-tactics) - fast-paced chess puzzles
 - [Untrusted —or— the Continuing Adventures of Dr. Eval](https://github.com/AlexNisnevich/untrusted) - Meta-JavaScript Adventure Game wherein you must edit and re-execute the very JavaScript running the game in your browser to save Dr. Eval from this dark and confusing reality
