@@ -45,6 +45,8 @@
 - [Pizza Undelivery](https://js13kgames.com/entries/pizza-undelivery) - Here you bring pizzas back to the pizzeria, instead of the other way around.
 - [Pacman](https://github.com/mumuy/pacman) & [Pacman-Game](https://github.com/RishabhDevbanshi/Pacman-Game)
 - [jump-n-bump](https://github.com/ennorehling/jump-n-bump) - HTML5 port of the open source DOS classic by Brainchild Design: local multiplayer platfomer game.
+- [Neon Snake Rush](https://github.com/zfryrgnci/NeonSnakeAPK-Mobile-Game-) - A high-octane hybrid-casual snake game wrapped in a native Android WebView.
+- [Quantum Ascent](https://github.com/zfryrgnci/QuantumAscentAPK-Mobile-Game-) - Gravity-defying procedural vertical platformer with fluid HTML5 physics.
 - [Glitch Duel](https://github.com/dersteppenwolf/glitch_duel) - May the glitch be with you.  Arcade web fighting game built with HTML, CSS, JavaScript, and Canvas, where players battle the CPU in best-of-3 rounds
 
 ### Educational
