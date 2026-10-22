@@ -47,6 +47,7 @@
 - [jump-n-bump](https://github.com/ennorehling/jump-n-bump) - HTML5 port of the open source DOS classic by Brainchild Design: local multiplayer platfomer game.
 - [Neon Snake Rush](https://github.com/zfryrgnci/NeonSnakeAPK-Mobile-Game-) - A high-octane hybrid-casual snake game wrapped in a native Android WebView.
 - [Quantum Ascent](https://github.com/zfryrgnci/QuantumAscentAPK-Mobile-Game-) - Gravity-defying procedural vertical platformer with fluid HTML5 physics.
+- [Glitch Duel](https://github.com/dersteppenwolf/glitch_duel) - May the glitch be with you.  Arcade web fighting game built with HTML, CSS, JavaScript, and Canvas, where players battle the CPU in best-of-3 rounds
 
 ### Educational
 - [Pixel Art Academy](https://github.com/Retronator/Pixel-Art-Academy) - An adventure game for learning to draw.
@@ -74,7 +75,8 @@
 - [2048](https://github.com/gd4Ark/2048)
 - [Blitz Tactics](https://github.com/linrock/blitz-tactics) - fast-paced chess puzzles
 - [Untrusted —or— the Continuing Adventures of Dr. Eval](https://github.com/AlexNisnevich/untrusted) - Meta-JavaScript Adventure Game wherein you must edit and re-execute the very JavaScript running the game in your browser to save Dr. Eval from this dark and confusing reality
-
+- [Block Blast Training Platform](https://github.com/dffge552/block-blast) - 8×8 block puzzle with guaranteed solvable piece generation using 4 algorithms and geometric OCR for screenshot recognition.
+  
 ### Running
 - [Offline: O.E.C.T](https://js13kgames.com/entries/offline-oect) - They said organic-electric technology was the way of the future.
 
