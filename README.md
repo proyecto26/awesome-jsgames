@@ -19,12 +19,68 @@
   </p>
 </p>
 
-### Winners
-- [js13kGames 2021](https://github.blog/2021-10-05-13-tiny-and-terrific-entries-from-the-js13kgames-competition/) - 13 tiny and terrific entries from the js13kGames competition.
-- [js13kGames 2020](https://github.blog/2020-10-11-top-ten-games-from-the-js13k-2020-competition) - Top 10 games from the JS13K 2020 competition 🕹
-- [js13kGames 2019](https://github.blog/2019-10-08-js13k-2019-highlights) - Highlights from the js13kGames 2019 competition.
-- [js13kGames 2018](https://github.blog/2018-10-05-js13kgames-highlights-2018) - 13 Games in ≤ 13kB of JavaScript.
-- [js13kGames 2017](https://github.blog/2017-07-31-build-a-game-in-13kb-or-less-with-js13kgames) - Build a game in 13kB or less with js13kGames.
+### Open Source Winners
+
+#### 2026
+- [js13kGames](https://js13kgames.com/2026/blog/winners-announced) - JS13K 2026 winners 🏆
+
+#### 2025
+- [js13kGames](https://js13kgames.com/2025/blog/winners-announced) - JS13K 2025 winners 🏆
+- [Game Off](https://github.blog/open-source/gaming/light-waves-rising-tides-and-drifting-ships-game-off-2025-winners/) - Light waves, rising tides, and drifting ships: Game Off 2025 winners
+
+#### 2024
+- [js13kGames](https://js13kgames.com/2024/blog/winners-announced) - JS13K 2024 winners 🏆
+- [Game Off](https://github.blog/open-source/game-off-2024-winners/) - Game Off 2024 winners
+
+#### 2023
+- [js13kGames](https://github.blog/open-source/gaming/js13k-2023-winners/) - JS13K 2023 winners 🏆
+- [Game Off](https://github.blog/open-source/gaming/game-off-2023-results/) - Game Off 2023 results 🏆
+- [Gamedev.js Jam](https://github.blog/open-source/gaming/gamedev-js-2023/) - Open Source challenge results from Gamedev.js Jam 2023
+
+#### 2022
+- [js13kGames](https://github.blog/open-source/gaming/js13k-2022-winners/) - JS13K 2022 winners 🏆
+- [Game Off](https://github.blog/open-source/gaming/game-off-2022-winners/) - Game Off 2022 winners 🏆
+- [Gamedev.js Jam](https://github.blog/open-source/gaming/top-games-source-code-from-gamedev-js-jam-2022/) - Top games + source code from Gamedev.js Jam 2022
+
+#### 2021
+- [js13kGames](https://github.blog/2021-10-05-13-tiny-and-terrific-entries-from-the-js13kgames-competition/) - 13 tiny and terrific entries from the js13kGames competition.
+- [Game Off](https://github.blog/open-source/gaming/top-entries-from-game-off-2021/) - Top-rated entries from Game Off 2021
+
+#### 2020
+- [js13kGames](https://github.blog/2020-10-11-top-ten-games-from-the-js13k-2020-competition) - Top 10 games from the JS13K 2020 competition 🕹
+- [Game Off](https://github.blog/open-source/gaming/highlights-from-game-off-2020/) - Highlights from Game Off 2020
+- [GMTK Game Jam](https://github.blog/open-source/gaming/gmtk-game-jam-2020-staff-picks-open-source-games/) - GMTK Game Jam 2020 – staff picks
+
+#### 2019
+- [js13kGames](https://github.blog/2019-10-08-js13k-2019-highlights) - Highlights from the js13kGames 2019 competition.
+- [Game Off](https://github.blog/open-source/gaming/game-off-2019-winners/) - Game Off 2019 Winners
+
+#### 2018
+- [js13kGames](https://github.blog/2018-10-05-js13kgames-highlights-2018) - 13 Games in ≤ 13kB of JavaScript.
+- [Game Off](https://github.blog/open-source/gaming/game-off-2018-highlights/) - Highlights for Game Off 2018
+
+#### 2017
+- [js13kGames](https://github.blog/2017-07-31-build-a-game-in-13kb-or-less-with-js13kgames) - Build a game in 13kB or less with js13kGames.
+- [Game Off](https://github.blog/open-source/gaming/game-off-2017-winners/) - Game Off 2017 winners
+
+#### 2016
+- [js13kGames](https://js13kgames.com/2016/games) - JS13K 2016 Games
+- [Game Off](https://github.blog/news-insights/the-library/game-off-iv-highlights/) - Game Off IV Highlights
+
+#### 2015
+- [js13kGames](https://js13kgames.com/2015/games) - JS13K 2015 Games
+- [Game Off](https://github.blog/open-source/gaming/game-off-iii-everyone-s-a-winner/) - Game Off III – Everyone’s a Winner
+
+#### 2014
+- [js13kGames](https://js13kgames.com/2014/games) - JS13K 2014 Games
+
+#### 2013
+- [js13kGames](https://js13kgames.com/2013/games) - JS13K 2013 Games
+- [Game Off](https://github.blog/open-source/gaming/github-game-off-ii-winners/) - GitHub Game Off II Winners
+
+#### 2012
+- [js13kGames](https://js13kgames.com/2012/games) - JS13K 2012 Games
+- [Game Off](https://github.blog/news-insights/the-library/github-game-off-winners/) - GitHub Game Off Winners
 
 ### Adventure
 - [Triangle: Back To Home](https://js13kgames.com/entries/triangle-back-to-home) - You are lost in the cave. Try to get out and back to home. Sometimes it can be easy, sometimes not… but don’t give up and you will do it.
