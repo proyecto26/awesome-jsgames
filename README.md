@@ -357,6 +357,7 @@
 - [jsGameWiki](https://github.com/DaRaFF/jsgamewiki) - A collection of good links for gaming with javascript.
 - [Games on GitHub](https://github.com/leereilly/games) - A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [Awesome AI-Built Games](https://github.com/lappemic/awesome-ai-built-games) - Playable games whose code was mostly written by AI coding agents, most of them browser games made with JavaScript and Three.js.
+- [Awesome Web Games](https://github.com/odedkovach/awesome-web-games) - Browser games listed and verified by their own developers, official web stores of top mobile games with dated sources, and open-source browser games.
 
 ## Contributors ✨
 Please do contribute! Issues and pull requests are welcome.
