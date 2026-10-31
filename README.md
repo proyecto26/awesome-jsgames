@@ -229,6 +229,7 @@
 - [TinyMusic](https://github.com/kevincennis/TinyMusic) - A simple, lightweight music synth/sequencer in JavaScript using the Web Audio API.
 - [SoundBox](https://github.com/mbitsnbites/soundbox) - A tool for composing synthetic music, in your browser.
 - [Sonant-X](https://github.com/nicolas-van/sonant-x) - A very small JavaScript synthesizer library, suitable for small JavaScript demos or video games.
+- [SFXMint](https://sfxmint.com/) - CC0 sound effects for web games (jumps, coins, UI clicks) with a keyless JSON API and CORS-enabled audio URLs you can hotlink; sounds are AI-generated or synthesized.
 
 ### Visual Resources
 - [Poly](https://poly.google.com) - A website created by Google for users to browse, distribute, and download 3D objects.
