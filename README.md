@@ -155,6 +155,7 @@
 - [Scroll!](https://github.com/ZeevKatz/scroll) - A Face to Face fighting game for mobile that you can play in your browser.
 
 ### Uncategorized
+- [Open Party Lab](https://github.com/Hartwich/Open-Party-Lab) - TypeScript party-game platform with phone browser controllers, Phaser and DOM host surfaces, and an extensible mini-game SDK.
 - [Push Back](https://js13kgames.com/entries/push-back) - In Push Back you create currents to help the stranded boats get back to the mainland. This game uses fluid dynamics to simulate the water.
 - [Retrohaunt](https://js13kgames.com/entries/retrohaunt) - Someone or something is stealing our time. Today was yesterday and tomorrow is nowhere to be seen. Detective Clay is on the case!
 - [SPACECRAFT](https://js13kgames.com/entries/spacecraft) - "Space, the final frontier" is your ultimate destination in SPACECRAFT.
