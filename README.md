@@ -104,6 +104,7 @@
 - [Neon Snake Rush](https://github.com/zfryrgnci/NeonSnakeAPK-Mobile-Game-) - A high-octane hybrid-casual snake game wrapped in a native Android WebView.
 - [Quantum Ascent](https://github.com/zfryrgnci/QuantumAscentAPK-Mobile-Game-) - Gravity-defying procedural vertical platformer with fluid HTML5 physics.
 - [Glitch Duel](https://github.com/dersteppenwolf/glitch_duel) - May the glitch be with you.  Arcade web fighting game built with HTML, CSS, JavaScript, and Canvas, where players battle the CPU in best-of-3 rounds
+- [COLD GAS](https://mutaafaziz.com/coldgas/) - Drive a roadster up a ramp, fire ten cold-gas thrusters to clear a row of parked cars, roll it 360° and land on the mark. Three.js with deterministic 6-DOF physics, MIT licensed ([source](https://github.com/mutaaf/cold-gas)).
 
 ### Educational
 - [Pixel Art Academy](https://github.com/Retronator/Pixel-Art-Academy) - An adventure game for learning to draw.
