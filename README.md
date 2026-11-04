@@ -90,6 +90,7 @@
 - [Offline Paradise](https://js13kgames.com/entries/offline-paradise) - The world, a paradise, has gone offline; everything has become grey and dangerous. Traverse, jump and dash over the obstacles to turn the world back into normal.
 - [Planetfall](https://js13kgames.com/entries/planetfall) - A space exploration game. The goal is to find satellite stations on each planet and take them offline.
 - [Quest of Tod](https://js13kgames.com/entries/quest-of-tod) - A speed running adventure game, where you stuck inside unknown place controlled by strange machine. Can you find all the keys and codes to unlock the exit before the time runs out?.
+- [OpenWorld](https://github.com/fainir/open-world) - 3D open world in the browser: drive, glide and explore a city, beach and mountains, then describe a change and an AI edits the game. MIT, [play it](https://open-world.gg/).
 
 ### Arcade
 - [Racer](https://js13kgames.com/entries/racer) - Start from the back of the pack, finish 1st to go to the next race!
