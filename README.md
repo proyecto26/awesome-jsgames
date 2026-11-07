@@ -281,6 +281,7 @@
 - [Ourcade Templates](https://ourcade.co/templates) - Various open-source game templates and starter projects to help speed up learning and development.
 - [Phaser 3 TypeScript Project Template](https://github.com/photonstorm/phaser3-typescript-project-template) - A quick-start project template that uses Phaser 3, TypeScript and Rollup for bundling.
 - [StackBlitz Phaser & React](https://stackblitz.com/edit/react-phaser) - Phaser & React template using Hooks 👾 
+- [Vibe Gaming Interactive Playbook](https://github.com/TripoGrowthLab/vibe-gaming-interactive-playbook) - Prompt for coding agents that builds a Three.js + Vite browser game from an empty folder, greybox first, then with 3D models, plus three open-source example games.
 
 ### Guides
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html).
