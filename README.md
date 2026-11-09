@@ -146,6 +146,7 @@
 ### Strategy
 - [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) - Match based eSport where players battle themselves by materializing and controling a squad of carefully selected creatures, each having unique stats and abilities. Master your beasts!
 - [Elematter](https://js13kgames.com/entries/elematter) - Elematter is a tower defense game based on the four elements: Earth, Water, Air and Fire.
+- [Chinese Table Games](https://github.com/bigerbigernerd/chinese-table-games) - Dou Dizhu, Flying Chess and Animal Chess rules engines with computer players in dependency-free JavaScript, used by the live games at doudizhu.pocketplay.win.
 
 ### Virtual Reality
 - [Back to Space](https://js13kgames.com/entries/back-to-space) - 40 Years ago we thought we had defeated them. But they are back! Now it's up to you!
