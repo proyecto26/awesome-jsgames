@@ -166,6 +166,7 @@
 - [UNO](https://github.com/guilhermebkel/uno-game) - The famous UNO card game with online multiplayer support!
 - [MemoryGame.js](https://github.com/Lucas-C/MemoryGame.js) - A customizable memory game
 - [Developer portfolio](https://github.com/JSLegendDev/2d-portfolio-kaboom) - Developer portfolio as an interactive 2D game
+- [Harness Hollow](https://github.com/KrasimirKralev/harvest-hollow) - A cozy 3D farming game for two players who share one farm in real time in the browser, built with Three.js and a Node.js server.
 
 ---
 
