@@ -336,6 +336,7 @@
 - [itch.io](https://itch.io) - Distribution and game jam hosting platform for HTML5 games.
 - [CrazyGames](https://www.crazygames.com/t/html5) - New distribution platform for HTML5 games.
 - [Y8 Games](https://www.y8.com) - At Y8 Games, there are over 70,000 games and videos available to play online. We are leading in the latest Unity3D car and dress up games.
+- [Foundplay](https://foundplay.io) - Free discovery platform where makers list a browser game at no cost; Play opens the game on the site where it is published, with no SDK or exclusivity.
 
 ### Monetization
 - [GameDistribution](https://gamedistribution.com) - The biggest broker of high quality, cross-platform games. We connect the best game developers to the biggest publishers.
