@@ -287,6 +287,7 @@
 - [WebGL guide](https://xem.github.io/articles/webgl-guide) - A complete, summarized WebGL tutorial, with tiny interactive demos in each chapter.
 - [browserdiet.com](https://browserdiet.com) - The definitive front-end performance guide.
 - [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden) - A growing collection of documentation about the most quirky parts of the JavaScript programming language.
+- [publish-browser-game](https://github.com/Xmo101/publish-browser-game) - A checklist for shipping an HTML5 or WebGL game and finding its first players: load speed, touch controls, share tags and where to list it, with a Claude Code skill, Cursor rule and AGENTS.md snippet.
 
 ### Books
 - [Phaser 3 HTML5 Cross Platform Game Development - Endless Runner](https://gumroad.com/l/FcjQw) - Designed both for beginners and skilled programmers, the course guides you from an empty folder introducing the bare bones of JavaScript to advanced Phaser 3 features.
