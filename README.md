@@ -166,6 +166,7 @@
 - [UNO](https://github.com/guilhermebkel/uno-game) - The famous UNO card game with online multiplayer support!
 - [MemoryGame.js](https://github.com/Lucas-C/MemoryGame.js) - A customizable memory game
 - [Developer portfolio](https://github.com/JSLegendDev/2d-portfolio-kaboom) - Developer portfolio as an interactive 2D game
+- [Agent City](https://github.com/Lulu-The-Narwhal/agent-city) - Open-world 3D Miami Beach (three.js, React Three Fiber) built from OpenStreetMap, where you drive, walk and shop while your local AI coding sessions roam the streets as gangs.
 
 ---
 
