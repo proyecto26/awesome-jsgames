@@ -252,6 +252,7 @@
 - [Aseprite](https://www.aseprite.org) - Animated sprite editor & pixel art tool.
 - [Piskel](https://github.com/piskelapp/piskel) - A free online editor for animated sprites & pixel art.
 - [Sleditor](https://sleditor.com/) - A web-based editor for creating and testing high-performance graphics and audio scripts in a web browser.
+- [Vibes DIY](https://vibes.diy/) - Describe a browser game in a sentence and play it at a shareable link, with saved data and sign-in built in ([make a chess app](https://good.vibes.diy/blog/chess-apps-play-by-the-real-rules)).
 
 ### Generators
 - [Stitches](https://draeton.github.io/stitches) - An HTML5 sprite sheet generator.
