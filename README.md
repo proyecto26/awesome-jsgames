@@ -104,6 +104,7 @@
 - [Neon Snake Rush](https://github.com/zfryrgnci/NeonSnakeAPK-Mobile-Game-) - A high-octane hybrid-casual snake game wrapped in a native Android WebView.
 - [Quantum Ascent](https://github.com/zfryrgnci/QuantumAscentAPK-Mobile-Game-) - Gravity-defying procedural vertical platformer with fluid HTML5 physics.
 - [Glitch Duel](https://github.com/dersteppenwolf/glitch_duel) - May the glitch be with you.  Arcade web fighting game built with HTML, CSS, JavaScript, and Canvas, where players battle the CPU in best-of-3 rounds
+- [Guacle](https://amrehan.github.io/guacle/) - Daily speedrun where you swipe to slice an avocado, tomato, onion, jalapeño and lime into guac. Single-file canvas game with polygon slicing physics. [Source](https://github.com/amrehan/guacle)
 
 ### Educational
 - [Pixel Art Academy](https://github.com/Retronator/Pixel-Art-Academy) - An adventure game for learning to draw.
