@@ -146,6 +146,7 @@
 ### Strategy
 - [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) - Match based eSport where players battle themselves by materializing and controling a squad of carefully selected creatures, each having unique stats and abilities. Master your beasts!
 - [Elematter](https://js13kgames.com/entries/elematter) - Elematter is a tower defense game based on the four elements: Earth, Water, Air and Fire.
+- [Stard](https://github.com/armanckeser/stard) - Auto-battler card game built from your GitHub stars: every starred repo is a card. Buy cards, place them on the board and fight other players' teams. Play at [stard.armanckeser.com](https://stard.armanckeser.com/run).
 
 ### Virtual Reality
 - [Back to Space](https://js13kgames.com/entries/back-to-space) - 40 Years ago we thought we had defeated them. But they are back! Now it's up to you!
