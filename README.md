@@ -208,6 +208,7 @@
 - [Hexi](https://github.com/kittykatattack/hexi) - A fun and easy way to make HTML5 games or any other kind interactive media using pure JavaScript code.
 - [js13k-2d](https://github.com/kutuluk/js13k-2d) - A 2kb webgl 2d sprite renderer, designed for Js13kGames.
 - [IonPhaser](https://github.com/proyecto26/ion-phaser) - A web component to use Phaser Framework with Angular, React, Vue, etc 🎮
+- [Branching Story Kit](https://github.com/ouba-studio/branching-story-kit) - A zero-dependency ES-module engine for building branching interactive fiction in the browser.
 - [Animatable](https://github.com/proyecto26/animatable-component) - Animate once, use Everywhere! 💫
 - [minivents](https://github.com/allouis/minivents) - Tiny eventing for javascript.
 
