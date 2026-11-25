@@ -255,6 +255,7 @@
 
 ### Generators
 - [Stitches](https://draeton.github.io/stitches) - An HTML5 sprite sheet generator.
+- [SpriteSheet.dev](https://spritesheet.dev) - A free in-browser sprite sheet maker that packs frames or an animated GIF into one sheet with TexturePacker JSON, Aseprite JSON or Sparrow XML for Phaser and PixiJS.
 - [Audiosprite](https://github.com/tonistiigi/audiosprite) - A ffmpeg wrapper that will take in multiple audio files and combines them into a single file.
 
 ### Minification
