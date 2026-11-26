@@ -185,6 +185,7 @@
   - [BLACKSMITH 2D](https://github.com/MassiveHeights/Black) - Black is a highly optimized 2D framework for web, mobile games, and playable ads.
   - [Impact](https://github.com/phoboslab/impact) - A JavaScript Game Engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers.
   - [KAPLAY](https://github.com/kaplayjs/kaplay) - Fork of legacy [Kaboom](https://github.com/replit/kaboom), that simplifies and accelerates game development by providing an intuitive API and by focusing on creativity rather than complexity.
+  - [branching-story-kit](https://github.com/ouba-studio/branching-story-kit) - A zero-dependency branching narrative engine for interactive fiction, visual novels and choice-based story apps (JSON story graphs, gated choices, state and memory, save/restore).
 #### 3D
   - [Babylonjs](https://github.com/BabylonJS/Babylon.js) - A powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
   - [PlayCanvas](https://github.com/playcanvas/engine) - Fast and lightweight WebGL game engine.
